@@ -1,6 +1,7 @@
-export const dynamic = 'force-dynamic;
 
 import Error from 'next/error';
+
+export const dynamic = 'force-dynamic;
 
 // Render the default Next.js 404 page when a route
 // is requested that doesn't match the middleware and
