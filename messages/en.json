@@ -1,0 +1,108 @@
+{
+  "Metadata": {
+    "Home": {
+      "title": "Portfolio"
+    },
+    "Product": {
+      "title": "Product"
+    },
+    "About": {
+      "title": "About Me"
+    },
+    "Contact": {
+      "title": "Contact To Me"
+    },
+    "Projects": {
+      "title": "My Projects"
+    },
+    "Articles": {
+      "title": "My Articles"
+    },
+    "Login": {
+      "title": "Login"
+    },
+    "Register": {
+      "title": "Register"
+    },
+    "description": "Portfolio website built with Next.js 14 and Tailwind CSS",
+    "author": "Luxeko",
+    "creator": "Luxeko",
+    "publisher": "Luxeko"
+  },
+  "Home": {
+    "title": "Turning Vision Into Reality With Code And Design.",
+    "description": "My name is Duc Anh, nickname Luxeko. As a skilled full-stack developer, I am dedicated to turning ideas into innovative web applications. Explore my latest projects and articles, showcasing my expertise in ReactJs, NextJs, Angular, NodeJs, Express.js, NestJs, Laravel, Java Spring Boot and web development.",
+    "new_products": "Sản phẩm mới",
+    "selling_products": "Sản phẩm bán chạy",
+    "news": "Tin tức",
+    "testimonial": "Khách hàng nói về EcoGarden."
+  },
+  "NotFoundPage": {
+    "description": "404 Not Found"
+  },
+  "Footer": {
+    "allRightReserved": "All Rights Reserved",
+    "buildWith": "Build With"
+  },
+  "Languages": {
+    "vietnam": "Vietnamese",
+    "english": "English"
+  },
+  "Login": {
+    "title": "Login",
+    "remember_me": "Remember Me",
+    "forgot_password": "Forgot Password",
+    "dont_have_a_account": "Don't have a account?",
+    "register_now": "Register now",
+    "welcome_back": "Welcome Back! Please Enter your details."
+  },
+  "Register": {
+    "title": "Register",
+    "already_have_account": "Already Have Account",
+    "login_now": "Login now",
+    "welcome_to": "Welcome to EcoGarden.! Please Register your account to use"
+  },
+  "Cart": {
+    "title": "Cart"
+  },
+  "Input": {
+    "email_or_phone_number": "Email or Phone number",
+    "email": "Email",
+    "password": "Password",
+    "password_confirmation": "Confirm Password",
+    "full_name": "Full Name",
+    "phone_number": "Phone Number",
+    "address": "Address"
+  },
+  "Button": {
+    "resume": "Resume",
+    "contact": "Contact",
+    "buy_now": "Buy Now",
+    "back_to_home_page": "Back home page"
+  },
+  "Common": {
+    "or": "Or"
+  },
+  "Validate": {
+    "password": {
+      "require": "Password is required.",
+      "min": "Password must be at least {length} characters.",
+      "password_confirmation": "Re-entered password is incorrect."
+    },
+    "email": {
+      "invalid": "Invalid email.",
+      "require": "Email is required."
+    },
+    "phone_number": {
+      "invalid": "Invalid phone number."
+    },
+    "email_or_phone_number": {
+      "require": "Please enter email or phone number"
+    },
+    "otp": {
+      "require": "OTP is required.",
+      "min": "OTP must have {length} numbers.",
+      "max": "OTP must have {length} numbers."
+    }
+  }
+}

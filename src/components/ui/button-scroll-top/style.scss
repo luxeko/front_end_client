@@ -1,0 +1,43 @@
+.btn__scroll-top {
+  position: fixed;
+  left: calc(100vw - 6rem - 10px);
+  bottom: -3rem;
+  line-height: 2.5rem;
+  transition: ease 300ms;
+  width: 2.5rem;
+  height: 2.5rem;
+  cursor: pointer;
+  border: 2px solid #fff;
+  background-color: hsl(var(--primary));
+  z-index: 20;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+
+  &.active {
+    bottom: 2rem;
+  }
+  &::after {
+    position: absolute;
+    z-index: -1;
+    content: '';
+    top: 100%;
+    left: 5%;
+    height: 10px;
+    width: 90%;
+    opacity: 1;
+    background: radial-gradient(
+      ellipse at center,
+      var(--eerie-black) 0%,
+      rgba(0, 0, 0, 0) 80%
+    );
+  }
+
+  @media (max-width: 767px) {
+    left: calc(100vw - 4rem - 10px);
+  }
+
+  @media (max-width: 479px) {
+    left: calc(100vw - 3rem - 10px);
+  }
+}

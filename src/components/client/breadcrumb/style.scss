@@ -1,0 +1,55 @@
+section {
+  background-position: center;
+  padding: 107px 0;
+  position: relative;
+  z-index: 1;
+  overflow: hidden;
+  background-image: url('../../../../public/images/breadcrumb_bg.png');
+
+  .breadcrumbShape01,
+  .breadcrumbShape02,
+  .breadcrumbShape03,
+  .breadcrumbShape04,
+  .breadcrumbShape05 {
+    position: absolute;
+    z-index: -1;
+  }
+
+  .breadcrumbShape01 {
+    left: 100px;
+    top: 62px;
+    animation: allTouchTopDown 1.5s ease-in-out 0s infinite alternate;
+    animation-duration: 3s;
+  }
+
+  .breadcrumbShape02 {
+    right: 32%;
+    top: 21%;
+  }
+
+  .breadcrumbShape03 {
+    right: 20%;
+    bottom: 15%;
+  }
+
+  .breadcrumbShape04 {
+    right: 8%;
+    top: 8%;
+  }
+
+  .breadcrumbShape05 {
+    right: 0;
+    top: 0;
+  }
+}
+@keyframes allTouchTopDown {
+  0% {
+    transform: rotateX(0deg) translateY(0px);
+  }
+  50% {
+    transform: rotateX(0deg) translateY(-20px);
+  }
+  100% {
+    transform: rotateX(0deg) translateY(0px);
+  }
+}

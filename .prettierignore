@@ -1,0 +1,16 @@
+# Ignore artifacts:
+/build
+node_modules
+package.json
+yarn.lock
+tsconfig.json
+.yarn
+.next
+.yarnrc.yml
+.prettierrc
+components.json
+global.d.ts
+next.config.mjs
+package-lock.json
+postcss.config.mjs
+README.md

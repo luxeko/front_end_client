@@ -1,0 +1,5150 @@
+{
+  "v": "5.5.7",
+  "meta": {
+    "g": "LottieFiles AE 0.1.20",
+    "a": "",
+    "k": "",
+    "d": "",
+    "tc": "#FFFFFF"
+  },
+  "fr": 24,
+  "ip": 0,
+  "op": 84,
+  "w": 1920,
+  "h": 1080,
+  "nm": "loading bar",
+  "ddd": 0,
+  "assets": [
+    {
+      "id": "comp_0",
+      "layers": [
+        {
+          "ddd": 0,
+          "ind": 1,
+          "ty": 5,
+          "nm": "102",
+          "sr": 1,
+          "ks": {
+            "o": { "a": 0, "k": 100, "ix": 11 },
+            "r": { "a": 0, "k": 0, "ix": 10 },
+            "p": { "a": 0, "k": [1390.958, 435.783, 0], "ix": 2 },
+            "a": { "a": 0, "k": [0, 0, 0], "ix": 1 },
+            "s": { "a": 0, "k": [173, 173, 100], "ix": 6 }
+          },
+          "ao": 0,
+          "t": {
+            "d": {
+              "k": [
+                {
+                  "s": {
+                    "s": 42,
+                    "f": "Muli-Bold",
+                    "t": "1",
+                    "j": 0,
+                    "tr": 30,
+                    "lh": 50.4,
+                    "ls": 0,
+                    "fc": [0.3451, 0.3176, 0.8824, 1]
+                  },
+                  "t": 21
+                }
+              ]
+            },
+            "p": {},
+            "m": { "g": 1, "a": { "a": 0, "k": [0, 0], "ix": 2 } },
+            "a": []
+          },
+          "ip": 20,
+          "op": 76,
+          "st": 20,
+          "bm": 0,
+          "completed": true
+        },
+        {
+          "ddd": 0,
+          "ind": 2,
+          "ty": 5,
+          "nm": "101",
+          "sr": 1,
+          "ks": {
+            "o": { "a": 0, "k": 100, "ix": 11 },
+            "r": { "a": 0, "k": 0, "ix": 10 },
+            "p": { "a": 0, "k": [1437.621, 435.783, 0], "ix": 2 },
+            "a": { "a": 0, "k": [0, 0, 0], "ix": 1 },
+            "s": { "a": 0, "k": [173, 173, 100], "ix": 6 }
+          },
+          "ao": 0,
+          "t": {
+            "d": {
+              "k": [
+                {
+                  "s": {
+                    "s": 42,
+                    "f": "Muli-Bold",
+                    "t": "1",
+                    "j": 0,
+                    "tr": 30,
+                    "lh": 50.4,
+                    "ls": 0,
+                    "fc": [0.3451, 0.3176, 0.8824, 1],
+                    "__complete": true,
+                    "fWeight": "700",
+                    "fStyle": "normal",
+                    "finalSize": 42,
+                    "finalText": ["1"],
+                    "finalLineHeight": 50.4,
+                    "l": [
+                      {
+                        "l": 26.086199999999998,
+                        "an": 26.086199999999998,
+                        "add": 0,
+                        "n": false,
+                        "anIndexes": [],
+                        "val": "1",
+                        "line": 0,
+                        "animatorJustifyOffset": 0,
+                        "ind": 0,
+                        "extra": 0
+                      }
+                    ],
+                    "boxWidth": 26.086199999999998,
+                    "justifyOffset": 0,
+                    "lineWidths": [26.086199999999998],
+                    "yOffset": 50.4,
+                    "ascent": 29.879241943359396
+                  },
+                  "t": 11
+                },
+                {
+                  "s": {
+                    "s": 42,
+                    "f": "Muli-Bold",
+                    "t": "2",
+                    "j": 0,
+                    "tr": 30,
+                    "lh": 50.4,
+                    "ls": 0,
+                    "fc": [0.3451, 0.3176, 0.8824, 1],
+                    "__complete": true,
+                    "fWeight": "700",
+                    "fStyle": "normal",
+                    "finalSize": 42,
+                    "finalText": ["2"],
+                    "finalLineHeight": 50.4,
+                    "l": [
+                      {
+                        "l": 26.086199999999998,
+                        "an": 26.086199999999998,
+                        "add": 0,
+                        "n": false,
+                        "anIndexes": [],
+                        "val": "2",
+                        "line": 0,
+                        "animatorJustifyOffset": 0,
+                        "ind": 0,
+                        "extra": 0
+                      }
+                    ],
+                    "boxWidth": 26.086199999999998,
+                    "justifyOffset": 0,
+                    "lineWidths": [26.086199999999998],
+                    "yOffset": 50.4,
+                    "ascent": 29.879241943359396
+                  },
+                  "t": 12
+                },
+                {
+                  "s": {
+                    "s": 42,
+                    "f": "Muli-Bold",
+                    "t": "3",
+                    "j": 0,
+                    "tr": 30,
+                    "lh": 50.4,
+                    "ls": 0,
+                    "fc": [0.3451, 0.3176, 0.8824, 1],
+                    "__complete": true,
+                    "fWeight": "700",
+                    "fStyle": "normal",
+                    "finalSize": 42,
+                    "finalText": ["3"],
+                    "finalLineHeight": 50.4,
+                    "l": [
+                      {
+                        "l": 26.086199999999998,
+                        "an": 26.086199999999998,
+                        "add": 0,
+                        "n": false,
+                        "anIndexes": [],
+                        "val": "3",
+                        "line": 0,
+                        "animatorJustifyOffset": 0,
+                        "ind": 0,
+                        "extra": 0
+                      }
+                    ],
+                    "boxWidth": 26.086199999999998,
+                    "justifyOffset": 0,
+                    "lineWidths": [26.086199999999998],
+                    "yOffset": 50.4,
+                    "ascent": 29.879241943359396
+                  },
+                  "t": 13
+                },
+                {
+                  "s": {
+                    "s": 42,
+                    "f": "Muli-Bold",
+                    "t": "4",
+                    "j": 0,
+                    "tr": 30,
+                    "lh": 50.4,
+                    "ls": 0,
+                    "fc": [0.3451, 0.3176, 0.8824, 1],
+                    "__complete": true,
+                    "fWeight": "700",
+                    "fStyle": "normal",
+                    "finalSize": 42,
+                    "finalText": ["4"],
+                    "finalLineHeight": 50.4,
+                    "l": [
+                      {
+                        "l": 26.086199999999998,
+                        "an": 26.086199999999998,
+                        "add": 0,
+                        "n": false,
+                        "anIndexes": [],
+                        "val": "4",
+                        "line": 0,
+                        "animatorJustifyOffset": 0,
+                        "ind": 0,
+                        "extra": 0
+                      }
+                    ],
+                    "boxWidth": 26.086199999999998,
+                    "justifyOffset": 0,
+                    "lineWidths": [26.086199999999998],
+                    "yOffset": 50.4,
+                    "ascent": 29.879241943359396
+                  },
+                  "t": 14
+                },
+                {
+                  "s": {
+                    "s": 42,
+                    "f": "Muli-Bold",
+                    "t": "5",
+                    "j": 0,
+                    "tr": 30,
+                    "lh": 50.4,
+                    "ls": 0,
+                    "fc": [0.3451, 0.3176, 0.8824, 1],
+                    "__complete": true,
+                    "fWeight": "700",
+                    "fStyle": "normal",
+                    "finalSize": 42,
+                    "finalText": ["5"],
+                    "finalLineHeight": 50.4,
+                    "l": [
+                      {
+                        "l": 26.086199999999998,
+                        "an": 26.086199999999998,
+                        "add": 0,
+                        "n": false,
+                        "anIndexes": [],
+                        "val": "5",
+                        "line": 0,
+                        "animatorJustifyOffset": 0,
+                        "ind": 0,
+                        "extra": 0
+                      }
+                    ],
+                    "boxWidth": 26.086199999999998,
+                    "justifyOffset": 0,
+                    "lineWidths": [26.086199999999998],
+                    "yOffset": 50.4,
+                    "ascent": 29.879241943359396
+                  },
+                  "t": 15
+                },
+                {
+                  "s": {
+                    "s": 42,
+                    "f": "Muli-Bold",
+                    "t": "6",
+                    "j": 0,
+                    "tr": 30,
+                    "lh": 50.4,
+                    "ls": 0,
+                    "fc": [0.3451, 0.3176, 0.8824, 1],
+                    "__complete": true,
+                    "fWeight": "700",
+                    "fStyle": "normal",
+                    "finalSize": 42,
+                    "finalText": ["6"],
+                    "finalLineHeight": 50.4,
+                    "l": [
+                      {
+                        "l": 26.086199999999998,
+                        "an": 26.086199999999998,
+                        "add": 0,
+                        "n": false,
+                        "anIndexes": [],
+                        "val": "6",
+                        "line": 0,
+                        "animatorJustifyOffset": 0,
+                        "ind": 0,
+                        "extra": 0
+                      }
+                    ],
+                    "boxWidth": 26.086199999999998,
+                    "justifyOffset": 0,
+                    "lineWidths": [26.086199999999998],
+                    "yOffset": 50.4,
+                    "ascent": 29.879241943359396
+                  },
+                  "t": 16
+                },
+                {
+                  "s": {
+                    "s": 42,
+                    "f": "Muli-Bold",
+                    "t": "7",
+                    "j": 0,
+                    "tr": 30,
+                    "lh": 50.4,
+                    "ls": 0,
+                    "fc": [0.3451, 0.3176, 0.8824, 1],
+                    "__complete": true,
+                    "fWeight": "700",
+                    "fStyle": "normal",
+                    "finalSize": 42,
+                    "finalText": ["7"],
+                    "finalLineHeight": 50.4,
+                    "l": [
+                      {
+                        "l": 26.086199999999998,
+                        "an": 26.086199999999998,
+                        "add": 0,
+                        "n": false,
+                        "anIndexes": [],
+                        "val": "7",
+                        "line": 0,
+                        "animatorJustifyOffset": 0,
+                        "ind": 0,
+                        "extra": 0
+                      }
+                    ],
+                    "boxWidth": 26.086199999999998,
+                    "justifyOffset": 0,
+                    "lineWidths": [26.086199999999998],
+                    "yOffset": 50.4,
+                    "ascent": 29.879241943359396
+                  },
+                  "t": 17
+                },
+                {
+                  "s": {
+                    "s": 42,
+                    "f": "Muli-Bold",
+                    "t": "8",
+                    "j": 0,
+                    "tr": 30,
+                    "lh": 50.4,
+                    "ls": 0,
+                    "fc": [0.3451, 0.3176, 0.8824, 1],
+                    "__complete": true,
+                    "fWeight": "700",
+                    "fStyle": "normal",
+                    "finalSize": 42,
+                    "finalText": ["8"],
+                    "finalLineHeight": 50.4,
+                    "l": [
+                      {
+                        "l": 26.128200000000003,
+                        "an": 26.128200000000003,
+                        "add": 0,
+                        "n": false,
+                        "anIndexes": [],
+                        "val": "8",
+                        "line": 0,
+                        "animatorJustifyOffset": 0,
+                        "ind": 0,
+                        "extra": 0
+                      }
+                    ],
+                    "boxWidth": 26.128200000000003,
+                    "justifyOffset": 0,
+                    "lineWidths": [26.128200000000003],
+                    "yOffset": 50.4,
+                    "ascent": 29.879241943359396
+                  },
+                  "t": 18
+                },
+                {
+                  "s": {
+                    "s": 42,
+                    "f": "Muli-Bold",
+                    "t": "9",
+                    "j": 0,
+                    "tr": 30,
+                    "lh": 50.4,
+                    "ls": 0,
+                    "fc": [0.3451, 0.3176, 0.8824, 1],
+                    "__complete": true,
+                    "fWeight": "700",
+                    "fStyle": "normal",
+                    "finalSize": 42,
+                    "finalText": ["9"],
+                    "finalLineHeight": 50.4,
+                    "l": [
+                      {
+                        "l": 26.086199999999998,
+                        "an": 26.086199999999998,
+                        "add": 0,
+                        "n": false,
+                        "anIndexes": [],
+                        "val": "9",
+                        "line": 0,
+                        "animatorJustifyOffset": 0,
+                        "ind": 0,
+                        "extra": 0
+                      }
+                    ],
+                    "boxWidth": 26.086199999999998,
+                    "justifyOffset": 0,
+                    "lineWidths": [26.086199999999998],
+                    "yOffset": 50.4,
+                    "ascent": 29.879241943359396
+                  },
+                  "t": 19
+                },
+                {
+                  "s": {
+                    "s": 42,
+                    "f": "Muli-Bold",
+                    "t": "0",
+                    "j": 0,
+                    "tr": 30,
+                    "lh": 50.4,
+                    "ls": 0,
+                    "fc": [0.3451, 0.3176, 0.8824, 1],
+                    "__complete": true,
+                    "fWeight": "700",
+                    "fStyle": "normal",
+                    "finalSize": 42,
+                    "finalText": ["0"],
+                    "finalLineHeight": 50.4,
+                    "l": [
+                      {
+                        "l": 26.086199999999998,
+                        "an": 26.086199999999998,
+                        "add": 0,
+                        "n": false,
+                        "anIndexes": [],
+                        "val": "0",
+                        "line": 0,
+                        "animatorJustifyOffset": 0,
+                        "ind": 0,
+                        "extra": 0
+                      }
+                    ],
+                    "boxWidth": 26.086199999999998,
+                    "justifyOffset": 0,
+                    "lineWidths": [26.086199999999998],
+                    "yOffset": 50.4,
+                    "ascent": 29.879241943359396
+                  },
+                  "t": 20
+                }
+              ]
+            },
+            "p": {},
+            "m": { "g": 1, "a": { "a": 0, "k": [0, 0], "ix": 2 } },
+            "a": []
+          },
+          "ip": 10,
+          "op": 78,
+          "st": 10,
+          "bm": 0,
+          "completed": true
+        },
+        {
+          "ddd": 0,
+          "ind": 3,
+          "ty": 5,
+          "nm": "1",
+          "sr": 1,
+          "ks": {
+            "o": { "a": 0, "k": 100, "ix": 11 },
+            "r": { "a": 0, "k": 0, "ix": 10 },
+            "p": { "a": 0, "k": [1481.958, 435.783, 0], "ix": 2 },
+            "a": { "a": 0, "k": [0, 0, 0], "ix": 1 },
+            "s": { "a": 0, "k": [173, 173, 100], "ix": 6 }
+          },
+          "ao": 0,
+          "t": {
+            "d": {
+              "k": [
+                {
+                  "s": {
+                    "s": 42,
+                    "f": "Muli-Bold",
+                    "t": "1",
+                    "j": 0,
+                    "tr": 30,
+                    "lh": 50.4,
+                    "ls": 0,
+                    "fc": [0.3451, 0.3176, 0.8824, 1],
+                    "__complete": true,
+                    "fWeight": "700",
+                    "fStyle": "normal",
+                    "finalSize": 42,
+                    "finalText": ["1"],
+                    "finalLineHeight": 50.4,
+                    "l": [
+                      {
+                        "l": 26.086199999999998,
+                        "an": 26.086199999999998,
+                        "add": 0,
+                        "n": false,
+                        "anIndexes": [],
+                        "val": "1",
+                        "line": 0,
+                        "animatorJustifyOffset": 0,
+                        "ind": 0,
+                        "extra": 0
+                      }
+                    ],
+                    "boxWidth": 26.086199999999998,
+                    "justifyOffset": 0,
+                    "lineWidths": [26.086199999999998],
+                    "yOffset": 50.4,
+                    "ascent": 29.879241943359396
+                  },
+                  "t": 1
+                },
+                {
+                  "s": {
+                    "s": 42,
+                    "f": "Muli-Bold",
+                    "t": "2",
+                    "j": 0,
+                    "tr": 30,
+                    "lh": 50.4,
+                    "ls": 0,
+                    "fc": [0.3451, 0.3176, 0.8824, 1],
+                    "__complete": true,
+                    "fWeight": "700",
+                    "fStyle": "normal",
+                    "finalSize": 42,
+                    "finalText": ["2"],
+                    "finalLineHeight": 50.4,
+                    "l": [
+                      {
+                        "l": 26.086199999999998,
+                        "an": 26.086199999999998,
+                        "add": 0,
+                        "n": false,
+                        "anIndexes": [],
+                        "val": "2",
+                        "line": 0,
+                        "animatorJustifyOffset": 0,
+                        "ind": 0,
+                        "extra": 0
+                      }
+                    ],
+                    "boxWidth": 26.086199999999998,
+                    "justifyOffset": 0,
+                    "lineWidths": [26.086199999999998],
+                    "yOffset": 50.4,
+                    "ascent": 29.879241943359396
+                  },
+                  "t": 2
+                },
+                {
+                  "s": {
+                    "s": 42,
+                    "f": "Muli-Bold",
+                    "t": "3",
+                    "j": 0,
+                    "tr": 30,
+                    "lh": 50.4,
+                    "ls": 0,
+                    "fc": [0.3451, 0.3176, 0.8824, 1],
+                    "__complete": true,
+                    "fWeight": "700",
+                    "fStyle": "normal",
+                    "finalSize": 42,
+                    "finalText": ["3"],
+                    "finalLineHeight": 50.4,
+                    "l": [
+                      {
+                        "l": 26.086199999999998,
+                        "an": 26.086199999999998,
+                        "add": 0,
+                        "n": false,
+                        "anIndexes": [],
+                        "val": "3",
+                        "line": 0,
+                        "animatorJustifyOffset": 0,
+                        "ind": 0,
+                        "extra": 0
+                      }
+                    ],
+                    "boxWidth": 26.086199999999998,
+                    "justifyOffset": 0,
+                    "lineWidths": [26.086199999999998],
+                    "yOffset": 50.4,
+                    "ascent": 29.879241943359396
+                  },
+                  "t": 3
+                },
+                {
+                  "s": {
+                    "s": 42,
+                    "f": "Muli-Bold",
+                    "t": "4",
+                    "j": 0,
+                    "tr": 30,
+                    "lh": 50.4,
+                    "ls": 0,
+                    "fc": [0.3451, 0.3176, 0.8824, 1],
+                    "__complete": true,
+                    "fWeight": "700",
+                    "fStyle": "normal",
+                    "finalSize": 42,
+                    "finalText": ["4"],
+                    "finalLineHeight": 50.4,
+                    "l": [
+                      {
+                        "l": 26.086199999999998,
+                        "an": 26.086199999999998,
+                        "add": 0,
+                        "n": false,
+                        "anIndexes": [],
+                        "val": "4",
+                        "line": 0,
+                        "animatorJustifyOffset": 0,
+                        "ind": 0,
+                        "extra": 0
+                      }
+                    ],
+                    "boxWidth": 26.086199999999998,
+                    "justifyOffset": 0,
+                    "lineWidths": [26.086199999999998],
+                    "yOffset": 50.4,
+                    "ascent": 29.879241943359396
+                  },
+                  "t": 4
+                },
+                {
+                  "s": {
+                    "s": 42,
+                    "f": "Muli-Bold",
+                    "t": "5",
+                    "j": 0,
+                    "tr": 30,
+                    "lh": 50.4,
+                    "ls": 0,
+                    "fc": [0.3451, 0.3176, 0.8824, 1],
+                    "__complete": true,
+                    "fWeight": "700",
+                    "fStyle": "normal",
+                    "finalSize": 42,
+                    "finalText": ["5"],
+                    "finalLineHeight": 50.4,
+                    "l": [
+                      {
+                        "l": 26.086199999999998,
+                        "an": 26.086199999999998,
+                        "add": 0,
+                        "n": false,
+                        "anIndexes": [],
+                        "val": "5",
+                        "line": 0,
+                        "animatorJustifyOffset": 0,
+                        "ind": 0,
+                        "extra": 0
+                      }
+                    ],
+                    "boxWidth": 26.086199999999998,
+                    "justifyOffset": 0,
+                    "lineWidths": [26.086199999999998],
+                    "yOffset": 50.4,
+                    "ascent": 29.879241943359396
+                  },
+                  "t": 5
+                },
+                {
+                  "s": {
+                    "s": 42,
+                    "f": "Muli-Bold",
+                    "t": "6",
+                    "j": 0,
+                    "tr": 30,
+                    "lh": 50.4,
+                    "ls": 0,
+                    "fc": [0.3451, 0.3176, 0.8824, 1],
+                    "__complete": true,
+                    "fWeight": "700",
+                    "fStyle": "normal",
+                    "finalSize": 42,
+                    "finalText": ["6"],
+                    "finalLineHeight": 50.4,
+                    "l": [
+                      {
+                        "l": 26.086199999999998,
+                        "an": 26.086199999999998,
+                        "add": 0,
+                        "n": false,
+                        "anIndexes": [],
+                        "val": "6",
+                        "line": 0,
+                        "animatorJustifyOffset": 0,
+                        "ind": 0,
+                        "extra": 0
+                      }
+                    ],
+                    "boxWidth": 26.086199999999998,
+                    "justifyOffset": 0,
+                    "lineWidths": [26.086199999999998],
+                    "yOffset": 50.4,
+                    "ascent": 29.879241943359396
+                  },
+                  "t": 6
+                },
+                {
+                  "s": {
+                    "s": 42,
+                    "f": "Muli-Bold",
+                    "t": "7",
+                    "j": 0,
+                    "tr": 30,
+                    "lh": 50.4,
+                    "ls": 0,
+                    "fc": [0.3451, 0.3176, 0.8824, 1],
+                    "__complete": true,
+                    "fWeight": "700",
+                    "fStyle": "normal",
+                    "finalSize": 42,
+                    "finalText": ["7"],
+                    "finalLineHeight": 50.4,
+                    "l": [
+                      {
+                        "l": 26.086199999999998,
+                        "an": 26.086199999999998,
+                        "add": 0,
+                        "n": false,
+                        "anIndexes": [],
+                        "val": "7",
+                        "line": 0,
+                        "animatorJustifyOffset": 0,
+                        "ind": 0,
+                        "extra": 0
+                      }
+                    ],
+                    "boxWidth": 26.086199999999998,
+                    "justifyOffset": 0,
+                    "lineWidths": [26.086199999999998],
+                    "yOffset": 50.4,
+                    "ascent": 29.879241943359396
+                  },
+                  "t": 7
+                },
+                {
+                  "s": {
+                    "s": 42,
+                    "f": "Muli-Bold",
+                    "t": "8",
+                    "j": 0,
+                    "tr": 30,
+                    "lh": 50.4,
+                    "ls": 0,
+                    "fc": [0.3451, 0.3176, 0.8824, 1],
+                    "__complete": true,
+                    "fWeight": "700",
+                    "fStyle": "normal",
+                    "finalSize": 42,
+                    "finalText": ["8"],
+                    "finalLineHeight": 50.4,
+                    "l": [
+                      {
+                        "l": 26.128200000000003,
+                        "an": 26.128200000000003,
+                        "add": 0,
+                        "n": false,
+                        "anIndexes": [],
+                        "val": "8",
+                        "line": 0,
+                        "animatorJustifyOffset": 0,
+                        "ind": 0,
+                        "extra": 0
+                      }
+                    ],
+                    "boxWidth": 26.128200000000003,
+                    "justifyOffset": 0,
+                    "lineWidths": [26.128200000000003],
+                    "yOffset": 50.4,
+                    "ascent": 29.879241943359396
+                  },
+                  "t": 8
+                },
+                {
+                  "s": {
+                    "s": 42,
+                    "f": "Muli-Bold",
+                    "t": "9",
+                    "j": 0,
+                    "tr": 30,
+                    "lh": 50.4,
+                    "ls": 0,
+                    "fc": [0.3451, 0.3176, 0.8824, 1],
+                    "__complete": true,
+                    "fWeight": "700",
+                    "fStyle": "normal",
+                    "finalSize": 42,
+                    "finalText": ["9"],
+                    "finalLineHeight": 50.4,
+                    "l": [
+                      {
+                        "l": 26.086199999999998,
+                        "an": 26.086199999999998,
+                        "add": 0,
+                        "n": false,
+                        "anIndexes": [],
+                        "val": "9",
+                        "line": 0,
+                        "animatorJustifyOffset": 0,
+                        "ind": 0,
+                        "extra": 0
+                      }
+                    ],
+                    "boxWidth": 26.086199999999998,
+                    "justifyOffset": 0,
+                    "lineWidths": [26.086199999999998],
+                    "yOffset": 50.4,
+                    "ascent": 29.879241943359396
+                  },
+                  "t": 9
+                },
+                {
+                  "s": {
+                    "s": 42,
+                    "f": "Muli-Bold",
+                    "t": "0",
+                    "j": 0,
+                    "tr": 30,
+                    "lh": 50.4,
+                    "ls": 0,
+                    "fc": [0.3451, 0.3176, 0.8824, 1],
+                    "__complete": true,
+                    "fWeight": "700",
+                    "fStyle": "normal",
+                    "finalSize": 42,
+                    "finalText": ["0"],
+                    "finalLineHeight": 50.4,
+                    "l": [
+                      {
+                        "l": 26.086199999999998,
+                        "an": 26.086199999999998,
+                        "add": 0,
+                        "n": false,
+                        "anIndexes": [],
+                        "val": "0",
+                        "line": 0,
+                        "animatorJustifyOffset": 0,
+                        "ind": 0,
+                        "extra": 0
+                      }
+                    ],
+                    "boxWidth": 26.086199999999998,
+                    "justifyOffset": 0,
+                    "lineWidths": [26.086199999999998],
+                    "yOffset": 50.4,
+                    "ascent": 29.879241943359396
+                  },
+                  "t": 10
+                }
+              ]
+            },
+            "p": {},
+            "m": { "g": 1, "a": { "a": 0, "k": [0, 0], "ix": 2 } },
+            "a": []
+          },
+          "ip": 0,
+          "op": 78,
+          "st": 0,
+          "bm": 0,
+          "completed": true
+        }
+      ]
+    }
+  ],
+  "fonts": {
+    "list": [
+      {
+        "fName": "Muli-Bold",
+        "fFamily": "Muli",
+        "fStyle": "Bold",
+        "ascent": 71.1410522460938
+      }
+    ]
+  },
+  "layers": [
+    {
+      "ddd": 0,
+      "ind": 1,
+      "ty": 5,
+      "nm": ". 3",
+      "sr": 1,
+      "ks": {
+        "o": { "a": 0, "k": 100, "ix": 11 },
+        "r": { "a": 0, "k": 0, "ix": 10 },
+        "p": { "a": 0, "k": [680, 427.5, 0], "ix": 2 },
+        "a": { "a": 0, "k": [0, 0, 0], "ix": 1 },
+        "s": { "a": 0, "k": [173, 173, 100], "ix": 6 }
+      },
+      "ao": 0,
+      "t": {
+        "d": {
+          "k": [
+            {
+              "s": {
+                "s": 42,
+                "f": "Muli-Bold",
+                "t": ".",
+                "j": 0,
+                "tr": 30,
+                "lh": 50.4,
+                "ls": 0,
+                "fc": [0.3451, 0.3176, 0.8824, 1]
+              },
+              "t": 0
+            }
+          ]
+        },
+        "p": {},
+        "m": { "g": 1, "a": { "a": 0, "k": [0, 0], "ix": 2 } },
+        "a": []
+      },
+      "ip": 60,
+      "op": 84,
+      "st": 36,
+      "bm": 0,
+      "completed": true
+    },
+    {
+      "ddd": 0,
+      "ind": 2,
+      "ty": 5,
+      "nm": ". 2",
+      "sr": 1,
+      "ks": {
+        "o": { "a": 0, "k": 100, "ix": 11 },
+        "r": { "a": 0, "k": 0, "ix": 10 },
+        "p": { "a": 0, "k": [652.5, 427.5, 0], "ix": 2 },
+        "a": { "a": 0, "k": [0, 0, 0], "ix": 1 },
+        "s": { "a": 0, "k": [173, 173, 100], "ix": 6 }
+      },
+      "ao": 0,
+      "t": {
+        "d": {
+          "k": [
+            {
+              "s": {
+                "s": 42,
+                "f": "Muli-Bold",
+                "t": ".",
+                "j": 0,
+                "tr": 30,
+                "lh": 50.4,
+                "ls": 0,
+                "fc": [0.3451, 0.3176, 0.8824, 1]
+              },
+              "t": 0
+            }
+          ]
+        },
+        "p": {},
+        "m": { "g": 1, "a": { "a": 0, "k": [0, 0], "ix": 2 } },
+        "a": []
+      },
+      "ip": 36,
+      "op": 84,
+      "st": 18,
+      "bm": 0,
+      "completed": true
+    },
+    {
+      "ddd": 0,
+      "ind": 3,
+      "ty": 5,
+      "nm": ".",
+      "sr": 1,
+      "ks": {
+        "o": { "a": 0, "k": 100, "ix": 11 },
+        "r": { "a": 0, "k": 0, "ix": 10 },
+        "p": { "a": 0, "k": [624, 427.676, 0], "ix": 2 },
+        "a": { "a": 0, "k": [0, 0, 0], "ix": 1 },
+        "s": { "a": 0, "k": [173, 173, 100], "ix": 6 }
+      },
+      "ao": 0,
+      "t": {
+        "d": {
+          "k": [
+            {
+              "s": {
+                "s": 42,
+                "f": "Muli-Bold",
+                "t": ".",
+                "j": 0,
+                "tr": 30,
+                "lh": 50.4,
+                "ls": 0,
+                "fc": [0.3451, 0.3176, 0.8824, 1]
+              },
+              "t": 0
+            }
+          ]
+        },
+        "p": {},
+        "m": { "g": 1, "a": { "a": 0, "k": [0, 0], "ix": 2 } },
+        "a": []
+      },
+      "ip": 12,
+      "op": 84,
+      "st": 0,
+      "bm": 0,
+      "completed": true
+    },
+    {
+      "ddd": 0,
+      "ind": 4,
+      "ty": 5,
+      "nm": "Loading ",
+      "sr": 1,
+      "ks": {
+        "o": { "a": 0, "k": 100, "ix": 11 },
+        "r": { "a": 0, "k": 0, "ix": 10 },
+        "p": { "a": 0, "k": [309.962, 428.6, 0], "ix": 2 },
+        "a": { "a": 0, "k": [0, 0, 0], "ix": 1 },
+        "s": { "a": 0, "k": [173, 173, 100], "ix": 6 }
+      },
+      "ao": 0,
+      "t": {
+        "d": {
+          "k": [
+            {
+              "s": {
+                "s": 42,
+                "f": "Muli-Bold",
+                "t": "Loading",
+                "j": 0,
+                "tr": 30,
+                "lh": 50.4,
+                "ls": 0,
+                "fc": [0.3451, 0.3176, 0.8824, 1]
+              },
+              "t": 0
+            }
+          ]
+        },
+        "p": {},
+        "m": { "g": 1, "a": { "a": 0, "k": [0, 0], "ix": 2 } },
+        "a": []
+      },
+      "ip": 0,
+      "op": 96,
+      "st": 0,
+      "bm": 0,
+      "completed": true
+    },
+    {
+      "ddd": 0,
+      "ind": 5,
+      "ty": 5,
+      "nm": "%",
+      "sr": 1,
+      "ks": {
+        "o": { "a": 0, "k": 100, "ix": 11 },
+        "r": { "a": 0, "k": 0, "ix": 10 },
+        "p": { "a": 0, "k": [1538.042, 435.892, 0], "ix": 2 },
+        "a": { "a": 0, "k": [0, 0, 0], "ix": 1 },
+        "s": { "a": 0, "k": [173, 173, 100], "ix": 6 }
+      },
+      "ao": 0,
+      "t": {
+        "d": {
+          "k": [
+            {
+              "s": {
+                "s": 42,
+                "f": "Muli-Bold",
+                "t": "%",
+                "j": 0,
+                "tr": 30,
+                "lh": 50.4,
+                "ls": 0,
+                "fc": [0.3451, 0.3176, 0.8824, 1]
+              },
+              "t": 0
+            }
+          ]
+        },
+        "p": {},
+        "m": { "g": 1, "a": { "a": 0, "k": [0, 0], "ix": 2 } },
+        "a": []
+      },
+      "ip": 0,
+      "op": 96,
+      "st": 0,
+      "bm": 0,
+      "completed": true
+    },
+    {
+      "ddd": 0,
+      "ind": 6,
+      "ty": 0,
+      "nm": "Pre-comp 1",
+      "refId": "comp_0",
+      "sr": 1,
+      "ks": {
+        "o": { "a": 0, "k": 100, "ix": 11 },
+        "r": { "a": 0, "k": 0, "ix": 10 },
+        "p": { "a": 0, "k": [960, 540, 0], "ix": 2 },
+        "a": { "a": 0, "k": [960, 540, 0], "ix": 1 },
+        "s": { "a": 0, "k": [100, 100, 100], "ix": 6 }
+      },
+      "ao": 0,
+      "tm": {
+        "a": 1,
+        "k": [
+          {
+            "i": { "x": [0.469], "y": [1] },
+            "o": { "x": [0.519], "y": [0] },
+            "t": 6,
+            "s": [0]
+          },
+          { "t": 54, "s": [0.875] }
+        ],
+        "ix": 2
+      },
+      "w": 1920,
+      "h": 1080,
+      "ip": 6,
+      "op": 102,
+      "st": 6,
+      "bm": 0,
+      "completed": true,
+      "layers": [
+        {
+          "ddd": 0,
+          "ind": 1,
+          "ty": 5,
+          "nm": "102",
+          "sr": 1,
+          "ks": {
+            "o": { "a": 0, "k": 100, "ix": 11 },
+            "r": { "a": 0, "k": 0, "ix": 10 },
+            "p": { "a": 0, "k": [1390.958, 435.783, 0], "ix": 2 },
+            "a": { "a": 0, "k": [0, 0, 0], "ix": 1 },
+            "s": { "a": 0, "k": [173, 173, 100], "ix": 6 }
+          },
+          "ao": 0,
+          "t": {
+            "d": {
+              "k": [
+                {
+                  "s": {
+                    "s": 42,
+                    "f": "Muli-Bold",
+                    "t": "1",
+                    "j": 0,
+                    "tr": 30,
+                    "lh": 50.4,
+                    "ls": 0,
+                    "fc": [0.3451, 0.3176, 0.8824, 1]
+                  },
+                  "t": 21
+                }
+              ]
+            },
+            "p": {},
+            "m": { "g": 1, "a": { "a": 0, "k": [0, 0], "ix": 2 } },
+            "a": []
+          },
+          "ip": 20,
+          "op": 76,
+          "st": 20,
+          "bm": 0,
+          "completed": true
+        },
+        {
+          "ddd": 0,
+          "ind": 2,
+          "ty": 5,
+          "nm": "101",
+          "sr": 1,
+          "ks": {
+            "o": { "a": 0, "k": 100, "ix": 11 },
+            "r": { "a": 0, "k": 0, "ix": 10 },
+            "p": { "a": 0, "k": [1437.621, 435.783, 0], "ix": 2 },
+            "a": { "a": 0, "k": [0, 0, 0], "ix": 1 },
+            "s": { "a": 0, "k": [173, 173, 100], "ix": 6 }
+          },
+          "ao": 0,
+          "t": {
+            "d": {
+              "k": [
+                {
+                  "s": {
+                    "s": 42,
+                    "f": "Muli-Bold",
+                    "t": "1",
+                    "j": 0,
+                    "tr": 30,
+                    "lh": 50.4,
+                    "ls": 0,
+                    "fc": [0.3451, 0.3176, 0.8824, 1],
+                    "__complete": true,
+                    "fWeight": "700",
+                    "fStyle": "normal",
+                    "finalSize": 42,
+                    "finalText": ["1"],
+                    "finalLineHeight": 50.4,
+                    "l": [
+                      {
+                        "l": 26.086199999999998,
+                        "an": 26.086199999999998,
+                        "add": 0,
+                        "n": false,
+                        "anIndexes": [],
+                        "val": "1",
+                        "line": 0,
+                        "animatorJustifyOffset": 0,
+                        "ind": 0,
+                        "extra": 0
+                      }
+                    ],
+                    "boxWidth": 26.086199999999998,
+                    "justifyOffset": 0,
+                    "lineWidths": [26.086199999999998],
+                    "yOffset": 50.4,
+                    "ascent": 29.879241943359396
+                  },
+                  "t": 11
+                },
+                {
+                  "s": {
+                    "s": 42,
+                    "f": "Muli-Bold",
+                    "t": "2",
+                    "j": 0,
+                    "tr": 30,
+                    "lh": 50.4,
+                    "ls": 0,
+                    "fc": [0.3451, 0.3176, 0.8824, 1],
+                    "__complete": true,
+                    "fWeight": "700",
+                    "fStyle": "normal",
+                    "finalSize": 42,
+                    "finalText": ["2"],
+                    "finalLineHeight": 50.4,
+                    "l": [
+                      {
+                        "l": 26.086199999999998,
+                        "an": 26.086199999999998,
+                        "add": 0,
+                        "n": false,
+                        "anIndexes": [],
+                        "val": "2",
+                        "line": 0,
+                        "animatorJustifyOffset": 0,
+                        "ind": 0,
+                        "extra": 0
+                      }
+                    ],
+                    "boxWidth": 26.086199999999998,
+                    "justifyOffset": 0,
+                    "lineWidths": [26.086199999999998],
+                    "yOffset": 50.4,
+                    "ascent": 29.879241943359396
+                  },
+                  "t": 12
+                },
+                {
+                  "s": {
+                    "s": 42,
+                    "f": "Muli-Bold",
+                    "t": "3",
+                    "j": 0,
+                    "tr": 30,
+                    "lh": 50.4,
+                    "ls": 0,
+                    "fc": [0.3451, 0.3176, 0.8824, 1],
+                    "__complete": true,
+                    "fWeight": "700",
+                    "fStyle": "normal",
+                    "finalSize": 42,
+                    "finalText": ["3"],
+                    "finalLineHeight": 50.4,
+                    "l": [
+                      {
+                        "l": 26.086199999999998,
+                        "an": 26.086199999999998,
+                        "add": 0,
+                        "n": false,
+                        "anIndexes": [],
+                        "val": "3",
+                        "line": 0,
+                        "animatorJustifyOffset": 0,
+                        "ind": 0,
+                        "extra": 0
+                      }
+                    ],
+                    "boxWidth": 26.086199999999998,
+                    "justifyOffset": 0,
+                    "lineWidths": [26.086199999999998],
+                    "yOffset": 50.4,
+                    "ascent": 29.879241943359396
+                  },
+                  "t": 13
+                },
+                {
+                  "s": {
+                    "s": 42,
+                    "f": "Muli-Bold",
+                    "t": "4",
+                    "j": 0,
+                    "tr": 30,
+                    "lh": 50.4,
+                    "ls": 0,
+                    "fc": [0.3451, 0.3176, 0.8824, 1],
+                    "__complete": true,
+                    "fWeight": "700",
+                    "fStyle": "normal",
+                    "finalSize": 42,
+                    "finalText": ["4"],
+                    "finalLineHeight": 50.4,
+                    "l": [
+                      {
+                        "l": 26.086199999999998,
+                        "an": 26.086199999999998,
+                        "add": 0,
+                        "n": false,
+                        "anIndexes": [],
+                        "val": "4",
+                        "line": 0,
+                        "animatorJustifyOffset": 0,
+                        "ind": 0,
+                        "extra": 0
+                      }
+                    ],
+                    "boxWidth": 26.086199999999998,
+                    "justifyOffset": 0,
+                    "lineWidths": [26.086199999999998],
+                    "yOffset": 50.4,
+                    "ascent": 29.879241943359396
+                  },
+                  "t": 14
+                },
+                {
+                  "s": {
+                    "s": 42,
+                    "f": "Muli-Bold",
+                    "t": "5",
+                    "j": 0,
+                    "tr": 30,
+                    "lh": 50.4,
+                    "ls": 0,
+                    "fc": [0.3451, 0.3176, 0.8824, 1],
+                    "__complete": true,
+                    "fWeight": "700",
+                    "fStyle": "normal",
+                    "finalSize": 42,
+                    "finalText": ["5"],
+                    "finalLineHeight": 50.4,
+                    "l": [
+                      {
+                        "l": 26.086199999999998,
+                        "an": 26.086199999999998,
+                        "add": 0,
+                        "n": false,
+                        "anIndexes": [],
+                        "val": "5",
+                        "line": 0,
+                        "animatorJustifyOffset": 0,
+                        "ind": 0,
+                        "extra": 0
+                      }
+                    ],
+                    "boxWidth": 26.086199999999998,
+                    "justifyOffset": 0,
+                    "lineWidths": [26.086199999999998],
+                    "yOffset": 50.4,
+                    "ascent": 29.879241943359396
+                  },
+                  "t": 15
+                },
+                {
+                  "s": {
+                    "s": 42,
+                    "f": "Muli-Bold",
+                    "t": "6",
+                    "j": 0,
+                    "tr": 30,
+                    "lh": 50.4,
+                    "ls": 0,
+                    "fc": [0.3451, 0.3176, 0.8824, 1],
+                    "__complete": true,
+                    "fWeight": "700",
+                    "fStyle": "normal",
+                    "finalSize": 42,
+                    "finalText": ["6"],
+                    "finalLineHeight": 50.4,
+                    "l": [
+                      {
+                        "l": 26.086199999999998,
+                        "an": 26.086199999999998,
+                        "add": 0,
+                        "n": false,
+                        "anIndexes": [],
+                        "val": "6",
+                        "line": 0,
+                        "animatorJustifyOffset": 0,
+                        "ind": 0,
+                        "extra": 0
+                      }
+                    ],
+                    "boxWidth": 26.086199999999998,
+                    "justifyOffset": 0,
+                    "lineWidths": [26.086199999999998],
+                    "yOffset": 50.4,
+                    "ascent": 29.879241943359396
+                  },
+                  "t": 16
+                },
+                {
+                  "s": {
+                    "s": 42,
+                    "f": "Muli-Bold",
+                    "t": "7",
+                    "j": 0,
+                    "tr": 30,
+                    "lh": 50.4,
+                    "ls": 0,
+                    "fc": [0.3451, 0.3176, 0.8824, 1],
+                    "__complete": true,
+                    "fWeight": "700",
+                    "fStyle": "normal",
+                    "finalSize": 42,
+                    "finalText": ["7"],
+                    "finalLineHeight": 50.4,
+                    "l": [
+                      {
+                        "l": 26.086199999999998,
+                        "an": 26.086199999999998,
+                        "add": 0,
+                        "n": false,
+                        "anIndexes": [],
+                        "val": "7",
+                        "line": 0,
+                        "animatorJustifyOffset": 0,
+                        "ind": 0,
+                        "extra": 0
+                      }
+                    ],
+                    "boxWidth": 26.086199999999998,
+                    "justifyOffset": 0,
+                    "lineWidths": [26.086199999999998],
+                    "yOffset": 50.4,
+                    "ascent": 29.879241943359396
+                  },
+                  "t": 17
+                },
+                {
+                  "s": {
+                    "s": 42,
+                    "f": "Muli-Bold",
+                    "t": "8",
+                    "j": 0,
+                    "tr": 30,
+                    "lh": 50.4,
+                    "ls": 0,
+                    "fc": [0.3451, 0.3176, 0.8824, 1],
+                    "__complete": true,
+                    "fWeight": "700",
+                    "fStyle": "normal",
+                    "finalSize": 42,
+                    "finalText": ["8"],
+                    "finalLineHeight": 50.4,
+                    "l": [
+                      {
+                        "l": 26.128200000000003,
+                        "an": 26.128200000000003,
+                        "add": 0,
+                        "n": false,
+                        "anIndexes": [],
+                        "val": "8",
+                        "line": 0,
+                        "animatorJustifyOffset": 0,
+                        "ind": 0,
+                        "extra": 0
+                      }
+                    ],
+                    "boxWidth": 26.128200000000003,
+                    "justifyOffset": 0,
+                    "lineWidths": [26.128200000000003],
+                    "yOffset": 50.4,
+                    "ascent": 29.879241943359396
+                  },
+                  "t": 18
+                },
+                {
+                  "s": {
+                    "s": 42,
+                    "f": "Muli-Bold",
+                    "t": "9",
+                    "j": 0,
+                    "tr": 30,
+                    "lh": 50.4,
+                    "ls": 0,
+                    "fc": [0.3451, 0.3176, 0.8824, 1],
+                    "__complete": true,
+                    "fWeight": "700",
+                    "fStyle": "normal",
+                    "finalSize": 42,
+                    "finalText": ["9"],
+                    "finalLineHeight": 50.4,
+                    "l": [
+                      {
+                        "l": 26.086199999999998,
+                        "an": 26.086199999999998,
+                        "add": 0,
+                        "n": false,
+                        "anIndexes": [],
+                        "val": "9",
+                        "line": 0,
+                        "animatorJustifyOffset": 0,
+                        "ind": 0,
+                        "extra": 0
+                      }
+                    ],
+                    "boxWidth": 26.086199999999998,
+                    "justifyOffset": 0,
+                    "lineWidths": [26.086199999999998],
+                    "yOffset": 50.4,
+                    "ascent": 29.879241943359396
+                  },
+                  "t": 19
+                },
+                {
+                  "s": {
+                    "s": 42,
+                    "f": "Muli-Bold",
+                    "t": "0",
+                    "j": 0,
+                    "tr": 30,
+                    "lh": 50.4,
+                    "ls": 0,
+                    "fc": [0.3451, 0.3176, 0.8824, 1],
+                    "__complete": true,
+                    "fWeight": "700",
+                    "fStyle": "normal",
+                    "finalSize": 42,
+                    "finalText": ["0"],
+                    "finalLineHeight": 50.4,
+                    "l": [
+                      {
+                        "l": 26.086199999999998,
+                        "an": 26.086199999999998,
+                        "add": 0,
+                        "n": false,
+                        "anIndexes": [],
+                        "val": "0",
+                        "line": 0,
+                        "animatorJustifyOffset": 0,
+                        "ind": 0,
+                        "extra": 0
+                      }
+                    ],
+                    "boxWidth": 26.086199999999998,
+                    "justifyOffset": 0,
+                    "lineWidths": [26.086199999999998],
+                    "yOffset": 50.4,
+                    "ascent": 29.879241943359396
+                  },
+                  "t": 20
+                }
+              ]
+            },
+            "p": {},
+            "m": { "g": 1, "a": { "a": 0, "k": [0, 0], "ix": 2 } },
+            "a": []
+          },
+          "ip": 10,
+          "op": 78,
+          "st": 10,
+          "bm": 0,
+          "completed": true
+        },
+        {
+          "ddd": 0,
+          "ind": 3,
+          "ty": 5,
+          "nm": "1",
+          "sr": 1,
+          "ks": {
+            "o": { "a": 0, "k": 100, "ix": 11 },
+            "r": { "a": 0, "k": 0, "ix": 10 },
+            "p": { "a": 0, "k": [1481.958, 435.783, 0], "ix": 2 },
+            "a": { "a": 0, "k": [0, 0, 0], "ix": 1 },
+            "s": { "a": 0, "k": [173, 173, 100], "ix": 6 }
+          },
+          "ao": 0,
+          "t": {
+            "d": {
+              "k": [
+                {
+                  "s": {
+                    "s": 42,
+                    "f": "Muli-Bold",
+                    "t": "1",
+                    "j": 0,
+                    "tr": 30,
+                    "lh": 50.4,
+                    "ls": 0,
+                    "fc": [0.3451, 0.3176, 0.8824, 1],
+                    "__complete": true,
+                    "fWeight": "700",
+                    "fStyle": "normal",
+                    "finalSize": 42,
+                    "finalText": ["1"],
+                    "finalLineHeight": 50.4,
+                    "l": [
+                      {
+                        "l": 26.086199999999998,
+                        "an": 26.086199999999998,
+                        "add": 0,
+                        "n": false,
+                        "anIndexes": [],
+                        "val": "1",
+                        "line": 0,
+                        "animatorJustifyOffset": 0,
+                        "ind": 0,
+                        "extra": 0
+                      }
+                    ],
+                    "boxWidth": 26.086199999999998,
+                    "justifyOffset": 0,
+                    "lineWidths": [26.086199999999998],
+                    "yOffset": 50.4,
+                    "ascent": 29.879241943359396
+                  },
+                  "t": 1
+                },
+                {
+                  "s": {
+                    "s": 42,
+                    "f": "Muli-Bold",
+                    "t": "2",
+                    "j": 0,
+                    "tr": 30,
+                    "lh": 50.4,
+                    "ls": 0,
+                    "fc": [0.3451, 0.3176, 0.8824, 1],
+                    "__complete": true,
+                    "fWeight": "700",
+                    "fStyle": "normal",
+                    "finalSize": 42,
+                    "finalText": ["2"],
+                    "finalLineHeight": 50.4,
+                    "l": [
+                      {
+                        "l": 26.086199999999998,
+                        "an": 26.086199999999998,
+                        "add": 0,
+                        "n": false,
+                        "anIndexes": [],
+                        "val": "2",
+                        "line": 0,
+                        "animatorJustifyOffset": 0,
+                        "ind": 0,
+                        "extra": 0
+                      }
+                    ],
+                    "boxWidth": 26.086199999999998,
+                    "justifyOffset": 0,
+                    "lineWidths": [26.086199999999998],
+                    "yOffset": 50.4,
+                    "ascent": 29.879241943359396
+                  },
+                  "t": 2
+                },
+                {
+                  "s": {
+                    "s": 42,
+                    "f": "Muli-Bold",
+                    "t": "3",
+                    "j": 0,
+                    "tr": 30,
+                    "lh": 50.4,
+                    "ls": 0,
+                    "fc": [0.3451, 0.3176, 0.8824, 1],
+                    "__complete": true,
+                    "fWeight": "700",
+                    "fStyle": "normal",
+                    "finalSize": 42,
+                    "finalText": ["3"],
+                    "finalLineHeight": 50.4,
+                    "l": [
+                      {
+                        "l": 26.086199999999998,
+                        "an": 26.086199999999998,
+                        "add": 0,
+                        "n": false,
+                        "anIndexes": [],
+                        "val": "3",
+                        "line": 0,
+                        "animatorJustifyOffset": 0,
+                        "ind": 0,
+                        "extra": 0
+                      }
+                    ],
+                    "boxWidth": 26.086199999999998,
+                    "justifyOffset": 0,
+                    "lineWidths": [26.086199999999998],
+                    "yOffset": 50.4,
+                    "ascent": 29.879241943359396
+                  },
+                  "t": 3
+                },
+                {
+                  "s": {
+                    "s": 42,
+                    "f": "Muli-Bold",
+                    "t": "4",
+                    "j": 0,
+                    "tr": 30,
+                    "lh": 50.4,
+                    "ls": 0,
+                    "fc": [0.3451, 0.3176, 0.8824, 1],
+                    "__complete": true,
+                    "fWeight": "700",
+                    "fStyle": "normal",
+                    "finalSize": 42,
+                    "finalText": ["4"],
+                    "finalLineHeight": 50.4,
+                    "l": [
+                      {
+                        "l": 26.086199999999998,
+                        "an": 26.086199999999998,
+                        "add": 0,
+                        "n": false,
+                        "anIndexes": [],
+                        "val": "4",
+                        "line": 0,
+                        "animatorJustifyOffset": 0,
+                        "ind": 0,
+                        "extra": 0
+                      }
+                    ],
+                    "boxWidth": 26.086199999999998,
+                    "justifyOffset": 0,
+                    "lineWidths": [26.086199999999998],
+                    "yOffset": 50.4,
+                    "ascent": 29.879241943359396
+                  },
+                  "t": 4
+                },
+                {
+                  "s": {
+                    "s": 42,
+                    "f": "Muli-Bold",
+                    "t": "5",
+                    "j": 0,
+                    "tr": 30,
+                    "lh": 50.4,
+                    "ls": 0,
+                    "fc": [0.3451, 0.3176, 0.8824, 1],
+                    "__complete": true,
+                    "fWeight": "700",
+                    "fStyle": "normal",
+                    "finalSize": 42,
+                    "finalText": ["5"],
+                    "finalLineHeight": 50.4,
+                    "l": [
+                      {
+                        "l": 26.086199999999998,
+                        "an": 26.086199999999998,
+                        "add": 0,
+                        "n": false,
+                        "anIndexes": [],
+                        "val": "5",
+                        "line": 0,
+                        "animatorJustifyOffset": 0,
+                        "ind": 0,
+                        "extra": 0
+                      }
+                    ],
+                    "boxWidth": 26.086199999999998,
+                    "justifyOffset": 0,
+                    "lineWidths": [26.086199999999998],
+                    "yOffset": 50.4,
+                    "ascent": 29.879241943359396
+                  },
+                  "t": 5
+                },
+                {
+                  "s": {
+                    "s": 42,
+                    "f": "Muli-Bold",
+                    "t": "6",
+                    "j": 0,
+                    "tr": 30,
+                    "lh": 50.4,
+                    "ls": 0,
+                    "fc": [0.3451, 0.3176, 0.8824, 1],
+                    "__complete": true,
+                    "fWeight": "700",
+                    "fStyle": "normal",
+                    "finalSize": 42,
+                    "finalText": ["6"],
+                    "finalLineHeight": 50.4,
+                    "l": [
+                      {
+                        "l": 26.086199999999998,
+                        "an": 26.086199999999998,
+                        "add": 0,
+                        "n": false,
+                        "anIndexes": [],
+                        "val": "6",
+                        "line": 0,
+                        "animatorJustifyOffset": 0,
+                        "ind": 0,
+                        "extra": 0
+                      }
+                    ],
+                    "boxWidth": 26.086199999999998,
+                    "justifyOffset": 0,
+                    "lineWidths": [26.086199999999998],
+                    "yOffset": 50.4,
+                    "ascent": 29.879241943359396
+                  },
+                  "t": 6
+                },
+                {
+                  "s": {
+                    "s": 42,
+                    "f": "Muli-Bold",
+                    "t": "7",
+                    "j": 0,
+                    "tr": 30,
+                    "lh": 50.4,
+                    "ls": 0,
+                    "fc": [0.3451, 0.3176, 0.8824, 1],
+                    "__complete": true,
+                    "fWeight": "700",
+                    "fStyle": "normal",
+                    "finalSize": 42,
+                    "finalText": ["7"],
+                    "finalLineHeight": 50.4,
+                    "l": [
+                      {
+                        "l": 26.086199999999998,
+                        "an": 26.086199999999998,
+                        "add": 0,
+                        "n": false,
+                        "anIndexes": [],
+                        "val": "7",
+                        "line": 0,
+                        "animatorJustifyOffset": 0,
+                        "ind": 0,
+                        "extra": 0
+                      }
+                    ],
+                    "boxWidth": 26.086199999999998,
+                    "justifyOffset": 0,
+                    "lineWidths": [26.086199999999998],
+                    "yOffset": 50.4,
+                    "ascent": 29.879241943359396
+                  },
+                  "t": 7
+                },
+                {
+                  "s": {
+                    "s": 42,
+                    "f": "Muli-Bold",
+                    "t": "8",
+                    "j": 0,
+                    "tr": 30,
+                    "lh": 50.4,
+                    "ls": 0,
+                    "fc": [0.3451, 0.3176, 0.8824, 1],
+                    "__complete": true,
+                    "fWeight": "700",
+                    "fStyle": "normal",
+                    "finalSize": 42,
+                    "finalText": ["8"],
+                    "finalLineHeight": 50.4,
+                    "l": [
+                      {
+                        "l": 26.128200000000003,
+                        "an": 26.128200000000003,
+                        "add": 0,
+                        "n": false,
+                        "anIndexes": [],
+                        "val": "8",
+                        "line": 0,
+                        "animatorJustifyOffset": 0,
+                        "ind": 0,
+                        "extra": 0
+                      }
+                    ],
+                    "boxWidth": 26.128200000000003,
+                    "justifyOffset": 0,
+                    "lineWidths": [26.128200000000003],
+                    "yOffset": 50.4,
+                    "ascent": 29.879241943359396
+                  },
+                  "t": 8
+                },
+                {
+                  "s": {
+                    "s": 42,
+                    "f": "Muli-Bold",
+                    "t": "9",
+                    "j": 0,
+                    "tr": 30,
+                    "lh": 50.4,
+                    "ls": 0,
+                    "fc": [0.3451, 0.3176, 0.8824, 1],
+                    "__complete": true,
+                    "fWeight": "700",
+                    "fStyle": "normal",
+                    "finalSize": 42,
+                    "finalText": ["9"],
+                    "finalLineHeight": 50.4,
+                    "l": [
+                      {
+                        "l": 26.086199999999998,
+                        "an": 26.086199999999998,
+                        "add": 0,
+                        "n": false,
+                        "anIndexes": [],
+                        "val": "9",
+                        "line": 0,
+                        "animatorJustifyOffset": 0,
+                        "ind": 0,
+                        "extra": 0
+                      }
+                    ],
+                    "boxWidth": 26.086199999999998,
+                    "justifyOffset": 0,
+                    "lineWidths": [26.086199999999998],
+                    "yOffset": 50.4,
+                    "ascent": 29.879241943359396
+                  },
+                  "t": 9
+                },
+                {
+                  "s": {
+                    "s": 42,
+                    "f": "Muli-Bold",
+                    "t": "0",
+                    "j": 0,
+                    "tr": 30,
+                    "lh": 50.4,
+                    "ls": 0,
+                    "fc": [0.3451, 0.3176, 0.8824, 1],
+                    "__complete": true,
+                    "fWeight": "700",
+                    "fStyle": "normal",
+                    "finalSize": 42,
+                    "finalText": ["0"],
+                    "finalLineHeight": 50.4,
+                    "l": [
+                      {
+                        "l": 26.086199999999998,
+                        "an": 26.086199999999998,
+                        "add": 0,
+                        "n": false,
+                        "anIndexes": [],
+                        "val": "0",
+                        "line": 0,
+                        "animatorJustifyOffset": 0,
+                        "ind": 0,
+                        "extra": 0
+                      }
+                    ],
+                    "boxWidth": 26.086199999999998,
+                    "justifyOffset": 0,
+                    "lineWidths": [26.086199999999998],
+                    "yOffset": 50.4,
+                    "ascent": 29.879241943359396
+                  },
+                  "t": 10
+                }
+              ]
+            },
+            "p": {},
+            "m": { "g": 1, "a": { "a": 0, "k": [0, 0], "ix": 2 } },
+            "a": []
+          },
+          "ip": 0,
+          "op": 78,
+          "st": 0,
+          "bm": 0,
+          "completed": true
+        }
+      ]
+    },
+    {
+      "ddd": 0,
+      "ind": 9,
+      "ty": 4,
+      "nm": "Shape Layer 1",
+      "sr": 1,
+      "ks": {
+        "o": { "a": 0, "k": 100, "ix": 11 },
+        "r": { "a": 0, "k": 0, "ix": 10 },
+        "p": { "a": 0, "k": [960, 540, 0], "ix": 2 },
+        "a": { "a": 0, "k": [-4.273, -5.349, 0], "ix": 1 },
+        "s": { "a": 0, "k": [102.317, 113.889, 100], "ix": 6 }
+      },
+      "ao": 0,
+      "shapes": [
+        {
+          "ty": "gr",
+          "it": [
+            {
+              "ty": "rc",
+              "d": 1,
+              "s": { "a": 0, "k": [1259.563, 140.112], "ix": 2 },
+              "p": { "a": 0, "k": [0, 0], "ix": 3 },
+              "r": { "a": 0, "k": 0, "ix": 4 },
+              "nm": "Rectangle Path 1",
+              "mn": "ADBE Vector Shape - Rect",
+              "hd": false,
+              "_render": true
+            },
+            {
+              "ty": "st",
+              "c": {
+                "a": 0,
+                "k": [0.3451, 0.3176, 0.8824, 1],
+                "ix": 3
+              },
+              "o": { "a": 0, "k": 100, "ix": 4 },
+              "w": { "a": 0, "k": 4, "ix": 5 },
+              "lc": 1,
+              "lj": 1,
+              "ml": 4,
+              "bm": 0,
+              "nm": "Stroke 1",
+              "mn": "ADBE Vector Graphic - Stroke",
+              "hd": false,
+              "_render": true
+            },
+            {
+              "ty": "tr",
+              "p": { "a": 0, "k": [-4.273, -5.349], "ix": 2 },
+              "a": { "a": 0, "k": [0, 0], "ix": 1 },
+              "s": { "a": 0, "k": [100, 100], "ix": 3 },
+              "r": { "a": 0, "k": 0, "ix": 6 },
+              "o": { "a": 0, "k": 100, "ix": 7 },
+              "sk": { "a": 0, "k": 0, "ix": 4 },
+              "sa": { "a": 0, "k": 0, "ix": 5 },
+              "nm": "Transform",
+              "_render": true
+            }
+          ],
+          "nm": "Rectangle 1",
+          "np": 3,
+          "cix": 2,
+          "bm": 0,
+          "ix": 1,
+          "mn": "ADBE Vector Group",
+          "hd": false,
+          "_render": true
+        }
+      ],
+      "ip": 0,
+      "op": 96,
+      "st": 0,
+      "bm": 0,
+      "completed": true
+    },
+    {
+      "ddd": 0,
+      "ind": 10,
+      "ty": 4,
+      "nm": "bar",
+      "sr": 1,
+      "ks": {
+        "o": { "a": 0, "k": 100, "ix": 11 },
+        "r": { "a": 0, "k": 0, "ix": 10 },
+        "p": { "a": 0, "k": [960, 540, 0], "ix": 2 },
+        "a": { "a": 0, "k": [-4.054, -4.865, 0], "ix": 1 },
+        "s": { "a": 0, "k": [100, 100, 100], "ix": 6 }
+      },
+      "ao": 0,
+      "shapes": [
+        {
+          "ty": "gr",
+          "it": [
+            {
+              "ind": 0,
+              "ty": "sh",
+              "ix": 1,
+              "ks": {
+                "a": 0,
+                "k": {
+                  "i": [
+                    [-614.595, -4.865],
+                    [606.486, -4.865]
+                  ],
+                  "o": [
+                    [-614.595, -4.865],
+                    [606.486, -4.865]
+                  ],
+                  "v": [
+                    [-614.595, -4.865],
+                    [606.486, -4.865]
+                  ],
+                  "c": false
+                },
+                "ix": 2
+              },
+              "nm": "Path 1",
+              "mn": "ADBE Vector Shape - Group",
+              "hd": false,
+              "_render": true
+            },
+            {
+              "ty": "st",
+              "c": {
+                "a": 0,
+                "k": [0.3451, 0.3176, 0.8824, 1],
+                "ix": 3
+              },
+              "o": { "a": 0, "k": 100, "ix": 4 },
+              "w": { "a": 0, "k": 100, "ix": 5 },
+              "lc": 1,
+              "lj": 1,
+              "ml": 4,
+              "bm": 0,
+              "nm": "Stroke 1",
+              "mn": "ADBE Vector Graphic - Stroke",
+              "hd": false,
+              "_render": true
+            },
+            {
+              "ty": "tr",
+              "p": { "a": 0, "k": [0, 0], "ix": 2 },
+              "a": { "a": 0, "k": [0, 0], "ix": 1 },
+              "s": { "a": 0, "k": [100, 100], "ix": 3 },
+              "r": { "a": 0, "k": 0, "ix": 6 },
+              "o": { "a": 0, "k": 100, "ix": 7 },
+              "sk": { "a": 0, "k": 0, "ix": 4 },
+              "sa": { "a": 0, "k": 0, "ix": 5 },
+              "nm": "Transform",
+              "_render": true
+            }
+          ],
+          "nm": "Shape 1",
+          "np": 3,
+          "cix": 2,
+          "bm": 0,
+          "ix": 1,
+          "mn": "ADBE Vector Group",
+          "hd": false,
+          "_render": true
+        },
+        {
+          "ty": "tm",
+          "s": { "a": 0, "k": 0, "ix": 1 },
+          "e": {
+            "a": 1,
+            "k": [
+              {
+                "i": { "x": [0], "y": [1] },
+                "o": { "x": [0.333], "y": [0] },
+                "t": 12,
+                "s": [0]
+              },
+              { "t": 60, "s": [100] }
+            ],
+            "ix": 2
+          },
+          "o": { "a": 0, "k": 0, "ix": 3 },
+          "m": 1,
+          "ix": 2,
+          "nm": "Trim Paths 1",
+          "mn": "ADBE Vector Filter - Trim",
+          "hd": false,
+          "_render": true
+        }
+      ],
+      "ip": 0,
+      "op": 96,
+      "st": 0,
+      "bm": 0,
+      "completed": true
+    }
+  ],
+  "markers": [],
+  "chars": [
+    {
+      "ch": "1",
+      "size": 42,
+      "style": "Bold",
+      "w": 62.11,
+      "data": {
+        "shapes": [
+          {
+            "ty": "gr",
+            "it": [
+              {
+                "ind": 0,
+                "ty": "sh",
+                "ix": 1,
+                "ks": {
+                  "a": 0,
+                  "k": {
+                    "i": [
+                      [52.051, 0],
+                      [52.051, -9.668],
+                      [39.258, -9.668],
+                      [39.258, -71.094],
+                      [28.271, -71.094],
+                      [17.431, -65.69],
+                      [12.646, -52.93],
+                      [22.2, -56.315000000000005],
+                      [26.855, -9.863],
+                      [14.307, -9.863],
+                      [14.307, 0]
+                    ],
+                    "o": [
+                      [52.051, 0],
+                      [52.051, -9.668],
+                      [39.258, -9.668],
+                      [39.258, -71.094],
+                      [22.639000000000003, -68.00099999999999],
+                      [12.646, -64.16],
+                      [17.463, -54.46],
+                      [26.855, -58.496],
+                      [26.855, -9.863],
+                      [14.307, -9.863],
+                      [14.307, 0]
+                    ],
+                    "v": [
+                      [52.051, 0],
+                      [52.051, -9.668],
+                      [39.258, -9.668],
+                      [39.258, -71.094],
+                      [28.271, -71.094],
+                      [12.646, -64.16],
+                      [12.646, -52.93],
+                      [26.855, -58.496],
+                      [26.855, -9.863],
+                      [14.307, -9.863],
+                      [14.307, 0]
+                    ],
+                    "c": true
+                  },
+                  "ix": 2
+                },
+                "nm": "1",
+                "mn": "ADBE Vector Shape - Group",
+                "hd": false,
+                "_render": true
+              },
+              {
+                "p": { "k": [0, 0], "a": 0 },
+                "s": { "k": [42, 42], "a": 0 },
+                "a": { "k": [0, 0], "a": 0 },
+                "r": { "k": 0, "a": 0 },
+                "o": { "k": 100, "a": 0 },
+                "sk": { "k": 0, "a": 0 },
+                "sa": { "k": 0, "a": 0 },
+                "ty": "tr",
+                "_render": true
+              }
+            ],
+            "nm": "1",
+            "np": 3,
+            "cix": 2,
+            "bm": 0,
+            "ix": 1,
+            "mn": "ADBE Vector Group",
+            "hd": false,
+            "_render": true
+          },
+          { "ty": "no", "_render": true }
+        ],
+        "ip": 0,
+        "op": 99999,
+        "st": 0,
+        "sr": 1,
+        "ks": {
+          "p": { "k": [0, 0], "a": 0 },
+          "s": { "k": [100, 100], "a": 0 },
+          "a": { "k": [0, 0], "a": 0 },
+          "r": { "k": 0, "a": 0 },
+          "o": { "k": 100, "a": 0 }
+        }
+      },
+      "fFamily": "Muli"
+    },
+    {
+      "ch": "2",
+      "size": 42,
+      "style": "Bold",
+      "w": 62.11,
+      "data": {
+        "shapes": [
+          {
+            "ty": "gr",
+            "it": [
+              {
+                "ind": 0,
+                "ty": "sh",
+                "ix": 1,
+                "ks": {
+                  "a": 0,
+                  "k": {
+                    "i": [
+                      [24.202, -72.06200000000001],
+                      [16.935, -70.491],
+                      [11.947000000000001, -68.538],
+                      [7.722, -66.349],
+                      [6.412, -65.478],
+                      [10.303, -55.566],
+                      [10.645, -55.762],
+                      [11.198, -56.128],
+                      [12.532, -56.891999999999996],
+                      [14.283000000000001, -57.837],
+                      [16.504, -58.862],
+                      [18.912000000000003, -59.870999999999995],
+                      [21.647000000000002, -60.767],
+                      [24.413999999999998, -61.451],
+                      [27.311, -61.816],
+                      [30.817999999999998, -61.67],
+                      [34.024, -60.604],
+                      [36.759, -58.309],
+                      [38.574, -54.28],
+                      [39.209, -49.528000000000006],
+                      [39.053999999999995, -46.093999999999994],
+                      [38.102, -42.756],
+                      [36.693999999999996, -40.046],
+                      [33.821000000000005, -36.32],
+                      [31.445, -33.641999999999996],
+                      [9.229, -8.936],
+                      [9.229, 0],
+                      [50.439, 0],
+                      [50.439, -10.156],
+                      [24.414, -10.156],
+                      [38.574, -25.049],
+                      [40.69, -27.286],
+                      [42.537, -29.345],
+                      [45.516, -32.926],
+                      [47.16, -35.628],
+                      [49.25, -39.534],
+                      [50.285, -43.131],
+                      [50.977, -47.657000000000004],
+                      [48.998999999999995, -62.385],
+                      [35.84, -72.314]
+                    ],
+                    "o": [
+                      [19.059, -71.05300000000001],
+                      [13.582, -69.254],
+                      [8.757, -66.911],
+                      [6.779, -65.73],
+                      [6.152, -65.283],
+                      [10.303, -55.566],
+                      [10.872, -55.925],
+                      [12.044, -56.616],
+                      [13.639000000000001, -57.510999999999996],
+                      [15.747, -58.521],
+                      [18.066, -59.546],
+                      [20.735000000000003, -60.489999999999995],
+                      [23.470000000000002, -61.255],
+                      [26.368, -61.743],
+                      [29.59, -61.816],
+                      [32.999, -61.084],
+                      [35.945, -59.269],
+                      [38.094, -55.802],
+                      [39.093999999999994, -50.830000000000005],
+                      [39.209, -47.314],
+                      [38.434999999999995, -43.75],
+                      [37.385, -41.129],
+                      [34.644, -37.345],
+                      [32.584, -34.919999999999995],
+                      [29.785, -31.787],
+                      [9.229, -8.936],
+                      [9.229, 0],
+                      [50.439, 0],
+                      [50.439, -10.156],
+                      [24.414, -10.156],
+                      [39.811, -26.351],
+                      [41.731, -28.425],
+                      [44.718, -31.884999999999998],
+                      [46.525, -34.553000000000004],
+                      [48.689, -38.297000000000004],
+                      [49.967, -41.813],
+                      [50.838, -46.126],
+                      [50.977, -56.673],
+                      [41.089, -70.328],
+                      [26.758, -72.314]
+                    ],
+                    "v": [
+                      [21.631, -71.558],
+                      [15.259, -69.873],
+                      [10.352, -67.725],
+                      [7.251, -66.04],
+                      [6.152, -65.283],
+                      [10.303, -55.566],
+                      [10.645, -55.762],
+                      [11.621, -56.372],
+                      [13.086, -57.202],
+                      [15.015, -58.179],
+                      [17.285, -59.204],
+                      [19.824, -60.181],
+                      [22.559, -61.011],
+                      [25.391, -61.597],
+                      [28.223, -61.816],
+                      [31.909, -61.377],
+                      [34.985, -59.937],
+                      [37.427, -57.056],
+                      [38.867, -52.49],
+                      [39.209, -48.584],
+                      [38.745, -44.922],
+                      [37.744, -41.943],
+                      [35.669, -38.696],
+                      [33.203, -35.62],
+                      [29.785, -31.787],
+                      [9.229, -8.936],
+                      [9.229, 0],
+                      [50.439, 0],
+                      [50.439, -10.156],
+                      [24.414, -10.156],
+                      [38.574, -25.049],
+                      [41.211, -27.856],
+                      [43.628, -30.615],
+                      [46.021, -33.74],
+                      [47.925, -36.963],
+                      [49.609, -40.674],
+                      [50.562, -44.629],
+                      [50.977, -49.219],
+                      [45.044, -66.357],
+                      [29.297, -72.314]
+                    ],
+                    "c": true
+                  },
+                  "ix": 2
+                },
+                "nm": "2",
+                "mn": "ADBE Vector Shape - Group",
+                "hd": false,
+                "_render": true
+              },
+              {
+                "p": { "k": [0, 0], "a": 0 },
+                "s": { "k": [42, 42], "a": 0 },
+                "a": { "k": [0, 0], "a": 0 },
+                "r": { "k": 0, "a": 0 },
+                "o": { "k": 100, "a": 0 },
+                "sk": { "k": 0, "a": 0 },
+                "sa": { "k": 0, "a": 0 },
+                "ty": "tr",
+                "_render": true
+              }
+            ],
+            "nm": "2",
+            "np": 3,
+            "cix": 2,
+            "bm": 0,
+            "ix": 1,
+            "mn": "ADBE Vector Group",
+            "hd": false,
+            "_render": true
+          },
+          { "ty": "no", "_render": true }
+        ],
+        "ip": 0,
+        "op": 99999,
+        "st": 0,
+        "sr": 1,
+        "ks": {
+          "p": { "k": [0, 0], "a": 0 },
+          "s": { "k": [100, 100], "a": 0 },
+          "a": { "k": [0, 0], "a": 0 },
+          "r": { "k": 0, "a": 0 },
+          "o": { "k": 100, "a": 0 }
+        }
+      },
+      "fFamily": "Muli"
+    },
+    {
+      "ch": "3",
+      "size": 42,
+      "style": "Bold",
+      "w": 62.11,
+      "data": {
+        "shapes": [
+          {
+            "ty": "gr",
+            "it": [
+              {
+                "ind": 0,
+                "ty": "sh",
+                "ix": 1,
+                "ks": {
+                  "a": 0,
+                  "k": {
+                    "i": [
+                      [36.531000000000006, 0.635],
+                      [44.734, -2.693],
+                      [50.789, -8.488],
+                      [54.004, -16.911],
+                      [52.677, -28.149],
+                      [43.717, -36.507],
+                      [44.587, -38.923],
+                      [50.187, -44.483],
+                      [52.344, -51.35],
+                      [51.701, -59.603],
+                      [47.403, -66.365],
+                      [40.65, -70.45899999999999],
+                      [32.438, -72.412],
+                      [20.353, -71.907],
+                      [11.084, -68.115],
+                      [12.793, -56.641],
+                      [13.525, -57.111999999999995],
+                      [16.081, -58.683],
+                      [18.439999999999998, -59.855],
+                      [21.989, -61.165],
+                      [26.253, -61.816],
+                      [33.788999999999994, -61.092],
+                      [39.893, -56.168],
+                      [38.599000000000004, -46.337999999999994],
+                      [28.971, -42.188],
+                      [19.141, -42.188],
+                      [19.238, -31.689],
+                      [22.363, -31.787],
+                      [23.926, -31.787],
+                      [33.96, -30.866999999999997],
+                      [41.895, -24.413999999999998],
+                      [40.723, -14.478000000000002],
+                      [32.666, -9.473],
+                      [23.185, -9.879],
+                      [15.699, -12.214],
+                      [12.402, -13.883],
+                      [8.154, -4.883],
+                      [9.033, -4.297],
+                      [10.555, -3.3609999999999998],
+                      [14.600000000000001, -1.563],
+                      [20.011, 0.10600000000000004],
+                      [27.668999999999997, 1.123]
+                    ],
+                    "o": [
+                      [42.228, -1.319],
+                      [49.063, -6.242],
+                      [53.361000000000004, -13.924],
+                      [54.004, -24.43],
+                      [47.370000000000005, -34.497],
+                      [42.056999999999995, -37.809],
+                      [48.722, -42.472],
+                      [51.912, -48.975],
+                      [52.344, -56.884],
+                      [49.129, -64.421],
+                      [43.074, -69.32799999999999],
+                      [35.278, -72.021],
+                      [24.365000000000002, -72.412],
+                      [14.461, -69.889],
+                      [7.275, -65.576],
+                      [12.988, -56.771],
+                      [15.283, -58.218999999999994],
+                      [17.513, -59.432],
+                      [20.718999999999998, -60.797999999999995],
+                      [24.788, -61.686],
+                      [30.973000000000003, -61.816],
+                      [38.671, -58.195],
+                      [39.893, -49.299],
+                      [33.423, -43.018],
+                      [22.656, -42.188],
+                      [19.141, -42.188],
+                      [19.238, -31.689],
+                      [22.363, -31.787],
+                      [29.557, -31.787],
+                      [40.308, -27.189],
+                      [41.895, -17.219],
+                      [36.035, -10.474],
+                      [25.797, -9.473],
+                      [17.683999999999997, -11.506],
+                      [13.257, -13.419],
+                      [11.914, -14.209],
+                      [8.154, -4.883],
+                      [9.619, -3.8739999999999997],
+                      [13.126999999999999, -2.1559999999999997],
+                      [17.92, -0.391],
+                      [25.055999999999997, 0.9199999999999999],
+                      [33.528, 1.123]
+                    ],
+                    "v": [
+                      [39.38, -0.342],
+                      [46.899, -4.468],
+                      [52.075, -11.206],
+                      [54.004, -20.166],
+                      [50.024, -31.323],
+                      [39.062, -37.354],
+                      [46.655, -40.698],
+                      [51.05, -46.729],
+                      [52.344, -53.857],
+                      [50.415, -62.012],
+                      [45.239, -67.847],
+                      [37.964, -71.24],
+                      [29.443, -72.412],
+                      [17.407, -70.898],
+                      [7.275, -65.576],
+                      [12.793, -56.641],
+                      [14.404, -57.666],
+                      [16.797, -59.058],
+                      [19.58, -60.327],
+                      [23.389, -61.426],
+                      [27.783, -61.816],
+                      [36.23, -59.644],
+                      [39.893, -53.564],
+                      [36.011, -44.678],
+                      [22.656, -42.188],
+                      [19.141, -42.188],
+                      [19.238, -31.689],
+                      [22.363, -31.787],
+                      [23.926, -31.787],
+                      [37.134, -29.028],
+                      [41.895, -20.703],
+                      [38.379, -12.476],
+                      [28.271, -9.473],
+                      [20.435, -10.693],
+                      [14.478, -12.817],
+                      [11.914, -14.209],
+                      [8.154, -4.883],
+                      [9.033, -4.297],
+                      [11.841, -2.759],
+                      [16.26, -0.977],
+                      [22.534, 0.513],
+                      [30.371, 1.123]
+                    ],
+                    "c": true
+                  },
+                  "ix": 2
+                },
+                "nm": "3",
+                "mn": "ADBE Vector Shape - Group",
+                "hd": false,
+                "_render": true
+              },
+              {
+                "p": { "k": [0, 0], "a": 0 },
+                "s": { "k": [42, 42], "a": 0 },
+                "a": { "k": [0, 0], "a": 0 },
+                "r": { "k": 0, "a": 0 },
+                "o": { "k": 100, "a": 0 },
+                "sk": { "k": 0, "a": 0 },
+                "sa": { "k": 0, "a": 0 },
+                "ty": "tr",
+                "_render": true
+              }
+            ],
+            "nm": "3",
+            "np": 3,
+            "cix": 2,
+            "bm": 0,
+            "ix": 1,
+            "mn": "ADBE Vector Group",
+            "hd": false,
+            "_render": true
+          },
+          { "ty": "no", "_render": true }
+        ],
+        "ip": 0,
+        "op": 99999,
+        "st": 0,
+        "sr": 1,
+        "ks": {
+          "p": { "k": [0, 0], "a": 0 },
+          "s": { "k": [100, 100], "a": 0 },
+          "a": { "k": [0, 0], "a": 0 },
+          "r": { "k": 0, "a": 0 },
+          "o": { "k": 100, "a": 0 }
+        }
+      },
+      "fFamily": "Muli"
+    },
+    {
+      "ch": "4",
+      "size": 42,
+      "style": "Bold",
+      "w": 62.11,
+      "data": {
+        "shapes": [
+          {
+            "ty": "gr",
+            "it": [
+              {
+                "ind": 0,
+                "ty": "sh",
+                "ix": 1,
+                "ks": {
+                  "a": 0,
+                  "k": {
+                    "i": [
+                      [34.830999999999996, -54.231],
+                      [35.547, -28.32],
+                      [18.994, -28.32]
+                    ],
+                    "o": [
+                      [35.547, -55.371],
+                      [35.547, -28.32],
+                      [29.313000000000002, -45.215]
+                    ],
+                    "v": [
+                      [35.547, -55.371],
+                      [35.547, -28.32],
+                      [18.994, -28.32]
+                    ],
+                    "c": true
+                  },
+                  "ix": 2
+                },
+                "nm": "4",
+                "mn": "ADBE Vector Shape - Group",
+                "hd": false,
+                "_render": true
+              },
+              {
+                "ind": 1,
+                "ty": "sh",
+                "ix": 2,
+                "ks": {
+                  "a": 0,
+                  "k": {
+                    "i": [
+                      [47.949, 0],
+                      [47.949, -18.604],
+                      [58.887, -18.604],
+                      [58.887, -28.32],
+                      [47.705, -28.32],
+                      [47.705, -71.094],
+                      [33.74, -71.094],
+                      [5.225, -27.832],
+                      [5.225, -18.604],
+                      [35.352, -18.604],
+                      [35.352, 0]
+                    ],
+                    "o": [
+                      [47.949, 0],
+                      [47.949, -18.604],
+                      [58.887, -18.604],
+                      [58.887, -28.32],
+                      [47.705, -28.32],
+                      [47.705, -71.094],
+                      [33.74, -71.094],
+                      [5.225, -27.832],
+                      [5.225, -18.604],
+                      [35.352, -18.604],
+                      [35.352, 0]
+                    ],
+                    "v": [
+                      [47.949, 0],
+                      [47.949, -18.604],
+                      [58.887, -18.604],
+                      [58.887, -28.32],
+                      [47.705, -28.32],
+                      [47.705, -71.094],
+                      [33.74, -71.094],
+                      [5.225, -27.832],
+                      [5.225, -18.604],
+                      [35.352, -18.604],
+                      [35.352, 0]
+                    ],
+                    "c": true
+                  },
+                  "ix": 2
+                },
+                "nm": "4",
+                "mn": "ADBE Vector Shape - Group",
+                "hd": false,
+                "_render": true
+              },
+              {
+                "p": { "k": [0, 0], "a": 0 },
+                "s": { "k": [42, 42], "a": 0 },
+                "a": { "k": [0, 0], "a": 0 },
+                "r": { "k": 0, "a": 0 },
+                "o": { "k": 100, "a": 0 },
+                "sk": { "k": 0, "a": 0 },
+                "sa": { "k": 0, "a": 0 },
+                "ty": "tr",
+                "_render": true
+              }
+            ],
+            "nm": "4",
+            "np": 5,
+            "cix": 2,
+            "bm": 0,
+            "ix": 1,
+            "mn": "ADBE Vector Group",
+            "hd": false,
+            "_render": true
+          },
+          { "ty": "no", "_render": true }
+        ],
+        "ip": 0,
+        "op": 99999,
+        "st": 0,
+        "sr": 1,
+        "ks": {
+          "p": { "k": [0, 0], "a": 0 },
+          "s": { "k": [100, 100], "a": 0 },
+          "a": { "k": [0, 0], "a": 0 },
+          "r": { "k": 0, "a": 0 },
+          "o": { "k": 100, "a": 0 }
+        }
+      },
+      "fFamily": "Muli"
+    },
+    {
+      "ch": "5",
+      "size": 42,
+      "style": "Bold",
+      "w": 62.11,
+      "data": {
+        "shapes": [
+          {
+            "ty": "gr",
+            "it": [
+              {
+                "ind": 0,
+                "ty": "sh",
+                "ix": 1,
+                "ks": {
+                  "a": 0,
+                  "k": {
+                    "i": [
+                      [35.457, 0.813],
+                      [42.699999999999996, -1.392],
+                      [49.015, -5.623],
+                      [53.604, -11.637],
+                      [56.006, -19.873],
+                      [54.06, -35.400000000000006],
+                      [41.650000000000006, -46.875],
+                      [25.944, -45.343999999999994],
+                      [24.219, -60.498],
+                      [52.783, -60.498],
+                      [52.783, -71.094],
+                      [13.281, -71.094],
+                      [13.281, -34.375],
+                      [25.635, -32.715],
+                      [29.817, -35.889],
+                      [38.94, -34.643],
+                      [43.213, -26.676000000000002],
+                      [41.943000000000005, -15.413],
+                      [33.772, -9.473],
+                      [24.723, -10.197000000000001],
+                      [16.601, -15.186000000000002],
+                      [7.861, -8.643],
+                      [14.331000000000001, -3.0679999999999996],
+                      [26.269, 1.123]
+                    ],
+                    "o": [
+                      [40.372, -0.423],
+                      [47.094, -4.0280000000000005],
+                      [52.302, -9.366],
+                      [55.525, -16.976],
+                      [56.006, -29.736],
+                      [46.281, -44.58],
+                      [30.159000000000002, -46.875],
+                      [23.633, -42.285],
+                      [24.219, -60.498],
+                      [52.783, -60.498],
+                      [52.783, -71.094],
+                      [13.281, -71.094],
+                      [13.281, -34.375],
+                      [27.1, -34.831],
+                      [36.653, -35.889],
+                      [42.358000000000004, -29.662999999999997],
+                      [43.213, -18.798000000000002],
+                      [36.865, -10.66],
+                      [27.457, -9.473],
+                      [19.124, -13.094000000000001],
+                      [14.355, -17.92],
+                      [10.856, -5.485000000000001],
+                      [22.241, 0.28400000000000003],
+                      [32.942, 1.123]
+                    ],
+                    "v": [
+                      [37.915, 0.195],
+                      [44.897, -2.71],
+                      [50.659, -7.495],
+                      [54.565, -14.307],
+                      [56.006, -22.998],
+                      [50.171, -39.99],
+                      [36.279, -46.875],
+                      [23.633, -42.285],
+                      [24.219, -60.498],
+                      [52.783, -60.498],
+                      [52.783, -71.094],
+                      [13.281, -71.094],
+                      [13.281, -34.375],
+                      [25.635, -32.715],
+                      [33.789, -35.889],
+                      [40.649, -32.153],
+                      [43.213, -23.193],
+                      [39.404, -13.037],
+                      [30.127, -9.473],
+                      [21.924, -11.646],
+                      [14.355, -17.92],
+                      [7.861, -8.643],
+                      [18.286, -1.392],
+                      [30.371, 1.123]
+                    ],
+                    "c": true
+                  },
+                  "ix": 2
+                },
+                "nm": "5",
+                "mn": "ADBE Vector Shape - Group",
+                "hd": false,
+                "_render": true
+              },
+              {
+                "p": { "k": [0, 0], "a": 0 },
+                "s": { "k": [42, 42], "a": 0 },
+                "a": { "k": [0, 0], "a": 0 },
+                "r": { "k": 0, "a": 0 },
+                "o": { "k": 100, "a": 0 },
+                "sk": { "k": 0, "a": 0 },
+                "sa": { "k": 0, "a": 0 },
+                "ty": "tr",
+                "_render": true
+              }
+            ],
+            "nm": "5",
+            "np": 3,
+            "cix": 2,
+            "bm": 0,
+            "ix": 1,
+            "mn": "ADBE Vector Group",
+            "hd": false,
+            "_render": true
+          },
+          { "ty": "no", "_render": true }
+        ],
+        "ip": 0,
+        "op": 99999,
+        "st": 0,
+        "sr": 1,
+        "ks": {
+          "p": { "k": [0, 0], "a": 0 },
+          "s": { "k": [100, 100], "a": 0 },
+          "a": { "k": [0, 0], "a": 0 },
+          "r": { "k": 0, "a": 0 },
+          "o": { "k": 100, "a": 0 }
+        }
+      },
+      "fFamily": "Muli"
+    },
+    {
+      "ch": "6",
+      "size": 42,
+      "style": "Bold",
+      "w": 62.11,
+      "data": {
+        "shapes": [
+          {
+            "ty": "gr",
+            "it": [
+              {
+                "ind": 0,
+                "ty": "sh",
+                "ix": 1,
+                "ks": {
+                  "a": 0,
+                  "k": {
+                    "i": [
+                      [30.354, -9.781],
+                      [26.27, -11.881],
+                      [22.982, -15.518999999999998],
+                      [21.191, -20.881],
+                      [22.339, -30.347],
+                      [30.03, -36.816],
+                      [40.177, -35.53],
+                      [45.02, -27.1],
+                      [43.928, -15.942],
+                      [36.719, -9.473]
+                    ],
+                    "o": [
+                      [27.555, -11.018],
+                      [23.926, -14.094],
+                      [21.549999999999997, -19.002],
+                      [21.191, -27.002],
+                      [26.929000000000002, -35.523],
+                      [37.452, -36.816],
+                      [44.05, -30.387000000000004],
+                      [45.02, -19.19],
+                      [39.567, -10.765999999999998],
+                      [31.770000000000003, -9.473]
+                    ],
+                    "v": [
+                      [28.955, -10.4],
+                      [25.098, -12.988],
+                      [22.266, -17.261],
+                      [21.191, -22.9],
+                      [24.634, -32.935],
+                      [33.936, -36.816],
+                      [42.114, -32.959],
+                      [45.02, -23.096],
+                      [41.748, -13.354],
+                      [33.203, -9.473]
+                    ],
+                    "c": true
+                  },
+                  "ix": 2
+                },
+                "nm": "6",
+                "mn": "ADBE Vector Shape - Group",
+                "hd": false,
+                "_render": true
+              },
+              {
+                "ind": 1,
+                "ty": "sh",
+                "ix": 2,
+                "ks": {
+                  "a": 0,
+                  "k": {
+                    "i": [
+                      [46.696, -1.1630000000000003],
+                      [57.764, -16.145],
+                      [55.671, -36.271],
+                      [41.682, -46.973],
+                      [23.942, -44.499],
+                      [22.297, -51.237],
+                      [31.769999999999996, -61.816],
+                      [45.866, -60.156],
+                      [54.199, -66.064],
+                      [43.620000000000005, -72.412],
+                      [27.457, -71.403],
+                      [17.082, -64.607],
+                      [10.555, -53.556000000000004],
+                      [7.422, -39.387],
+                      [8.366, -20.826],
+                      [15.071, -6.282],
+                      [27.848000000000003, 1.123]
+                    ],
+                    "o": [
+                      [55.55, -10.31],
+                      [57.764, -30.501],
+                      [47.306, -44.832],
+                      [28.662, -46.973],
+                      [20.719, -45.931000000000004],
+                      [28.092, -59.7],
+                      [41.242999999999995, -61.816],
+                      [50.098, -56.836],
+                      [49.641, -70.29499999999999],
+                      [31.575000000000003, -72.412],
+                      [20.1, -67.366],
+                      [12.360999999999999, -57.608],
+                      [8.048, -44.343],
+                      [7.422, -26.985],
+                      [12.142, -10.376000000000001],
+                      [23.014, -0.35799999999999965],
+                      [40.836, 1.123]
+                    ],
+                    "v": [
+                      [51.123, -5.737],
+                      [57.764, -23.242],
+                      [51.489, -40.552],
+                      [34.619, -46.973],
+                      [20.459, -39.551],
+                      [25.195, -55.469],
+                      [36.23, -61.816],
+                      [50.098, -56.836],
+                      [54.199, -66.064],
+                      [36.133, -72.412],
+                      [23.779, -69.385],
+                      [14.722, -61.108],
+                      [9.302, -48.95],
+                      [7.422, -34.082],
+                      [10.254, -15.601],
+                      [19.043, -3.32],
+                      [33.545, 1.123]
+                    ],
+                    "c": true
+                  },
+                  "ix": 2
+                },
+                "nm": "6",
+                "mn": "ADBE Vector Shape - Group",
+                "hd": false,
+                "_render": true
+              },
+              {
+                "p": { "k": [0, 0], "a": 0 },
+                "s": { "k": [42, 42], "a": 0 },
+                "a": { "k": [0, 0], "a": 0 },
+                "r": { "k": 0, "a": 0 },
+                "o": { "k": 100, "a": 0 },
+                "sk": { "k": 0, "a": 0 },
+                "sa": { "k": 0, "a": 0 },
+                "ty": "tr",
+                "_render": true
+              }
+            ],
+            "nm": "6",
+            "np": 5,
+            "cix": 2,
+            "bm": 0,
+            "ix": 1,
+            "mn": "ADBE Vector Group",
+            "hd": false,
+            "_render": true
+          },
+          { "ty": "no", "_render": true }
+        ],
+        "ip": 0,
+        "op": 99999,
+        "st": 0,
+        "sr": 1,
+        "ks": {
+          "p": { "k": [0, 0], "a": 0 },
+          "s": { "k": [100, 100], "a": 0 },
+          "a": { "k": [0, 0], "a": 0 },
+          "r": { "k": 0, "a": 0 },
+          "o": { "k": 100, "a": 0 }
+        }
+      },
+      "fFamily": "Muli"
+    },
+    {
+      "ch": "7",
+      "size": 42,
+      "style": "Bold",
+      "w": 62.11,
+      "data": {
+        "shapes": [
+          {
+            "ty": "gr",
+            "it": [
+              {
+                "ind": 0,
+                "ty": "sh",
+                "ix": 1,
+                "ks": {
+                  "a": 0,
+                  "k": {
+                    "i": [
+                      [28.564, 0],
+                      [56.543, -61.621],
+                      [56.543, -71.094],
+                      [7.08, -71.094],
+                      [7.08, -60.938],
+                      [42.188, -60.938],
+                      [15.283, 0]
+                    ],
+                    "o": [
+                      [28.564, 0],
+                      [56.543, -61.621],
+                      [56.543, -71.094],
+                      [7.08, -71.094],
+                      [7.08, -60.938],
+                      [42.188, -60.938],
+                      [15.283, 0]
+                    ],
+                    "v": [
+                      [28.564, 0],
+                      [56.543, -61.621],
+                      [56.543, -71.094],
+                      [7.08, -71.094],
+                      [7.08, -60.938],
+                      [42.188, -60.938],
+                      [15.283, 0]
+                    ],
+                    "c": true
+                  },
+                  "ix": 2
+                },
+                "nm": "7",
+                "mn": "ADBE Vector Shape - Group",
+                "hd": false,
+                "_render": true
+              },
+              {
+                "p": { "k": [0, 0], "a": 0 },
+                "s": { "k": [42, 42], "a": 0 },
+                "a": { "k": [0, 0], "a": 0 },
+                "r": { "k": 0, "a": 0 },
+                "o": { "k": 100, "a": 0 },
+                "sk": { "k": 0, "a": 0 },
+                "sa": { "k": 0, "a": 0 },
+                "ty": "tr",
+                "_render": true
+              }
+            ],
+            "nm": "7",
+            "np": 3,
+            "cix": 2,
+            "bm": 0,
+            "ix": 1,
+            "mn": "ADBE Vector Group",
+            "hd": false,
+            "_render": true
+          },
+          { "ty": "no", "_render": true }
+        ],
+        "ip": 0,
+        "op": 99999,
+        "st": 0,
+        "sr": 1,
+        "ks": {
+          "p": { "k": [0, 0], "a": 0 },
+          "s": { "k": [100, 100], "a": 0 },
+          "a": { "k": [0, 0], "a": 0 },
+          "r": { "k": 0, "a": 0 },
+          "o": { "k": 100, "a": 0 }
+        }
+      },
+      "fFamily": "Muli"
+    },
+    {
+      "ch": "8",
+      "size": 42,
+      "style": "Bold",
+      "w": 62.21,
+      "data": {
+        "shapes": [
+          {
+            "ty": "gr",
+            "it": [
+              {
+                "ind": 0,
+                "ty": "sh",
+                "ix": 1,
+                "ks": {
+                  "a": 0,
+                  "k": {
+                    "i": [
+                      [25.22, -44.124],
+                      [20.703, -50.244],
+                      [21.615, -57.902],
+                      [27.75, -61.523],
+                      [36.278999999999996, -60.799],
+                      [41.162, -55.94],
+                      [40.266999999999996, -48.234],
+                      [34.18, -42.839000000000006]
+                    ],
+                    "o": [
+                      [21.606, -47.965],
+                      [20.703, -55.745],
+                      [25.261, -60.799],
+                      [33.838, -61.523],
+                      [40.185, -57.902],
+                      [41.162, -50.635],
+                      [36.686, -44.295],
+                      [27.734, -42.741]
+                    ],
+                    "v": [
+                      [23.413, -46.045],
+                      [20.703, -52.881],
+                      [23.438, -59.351],
+                      [30.908, -61.523],
+                      [38.232, -59.351],
+                      [41.162, -53.467],
+                      [38.477, -46.265],
+                      [30.957, -41.895]
+                    ],
+                    "c": true
+                  },
+                  "ix": 2
+                },
+                "nm": "8",
+                "mn": "ADBE Vector Shape - Group",
+                "hd": false,
+                "_render": true
+              },
+              {
+                "ind": 1,
+                "ty": "sh",
+                "ix": 2,
+                "ks": {
+                  "a": 0,
+                  "k": {
+                    "i": [
+                      [24.601, -10.603],
+                      [19.434, -16.683],
+                      [20.540000000000003, -25.878999999999998],
+                      [27.814999999999998, -32.129],
+                      [37.183, -30.419999999999998],
+                      [42.676, -22.932000000000002],
+                      [41.642, -14.03],
+                      [34.651, -9.717]
+                    ],
+                    "o": [
+                      [20.465999999999998, -14.152000000000001],
+                      [19.434, -23.128],
+                      [24.967000000000002, -30.567],
+                      [34.489, -32.062999999999995],
+                      [41.577000000000005, -25.538],
+                      [42.676, -16.65],
+                      [37.507000000000005, -10.579],
+                      [27.425, -9.717]
+                    ],
+                    "v": [
+                      [22.534, -12.378],
+                      [19.434, -19.971],
+                      [22.754, -28.223],
+                      [31.299, -32.91],
+                      [39.38, -27.979],
+                      [42.676, -20.166],
+                      [39.575, -12.305],
+                      [31.006, -9.717]
+                    ],
+                    "c": true
+                  },
+                  "ix": 2
+                },
+                "nm": "8",
+                "mn": "ADBE Vector Shape - Group",
+                "hd": false,
+                "_render": true
+              },
+              {
+                "ind": 2,
+                "ty": "sh",
+                "ix": 3,
+                "ks": {
+                  "a": 0,
+                  "k": {
+                    "i": [
+                      [39.396, 0.3740000000000001],
+                      [49.528000000000006, -4.914999999999999],
+                      [55.225, -14.729000000000001],
+                      [54.093, -26.228],
+                      [46.712, -35.432],
+                      [53.76, -45.897999999999996],
+                      [51.717, -63.82599999999999],
+                      [37.955, -72.412],
+                      [18.741, -70.735],
+                      [8.203, -59.455999999999996],
+                      [11.750999999999998, -41.341],
+                      [12.116999999999999, -32.966],
+                      [6.787, -23.224999999999998],
+                      [7.869000000000001, -11.377],
+                      [15.104, -2.7830000000000004],
+                      [26.546, 1.123]
+                    ],
+                    "o": [
+                      [46.589, -2.62],
+                      [54.085, -11.1],
+                      [55.225, -22.672],
+                      [49.568000000000005, -32.901],
+                      [50.26, -40.576],
+                      [53.76, -59.114],
+                      [43.546, -70.695],
+                      [24.186, -72.412],
+                      [10.309999999999999, -64.03],
+                      [8.203, -46.793],
+                      [15.070999999999998, -35.45],
+                      [7.853, -26.749000000000002],
+                      [6.787, -15.055],
+                      [12.198, -5.127000000000001],
+                      [22.395, 0.34099999999999997],
+                      [35.465, 1.123]
+                    ],
+                    "v": [
+                      [42.993, -1.123],
+                      [51.807, -8.008],
+                      [55.225, -18.896],
+                      [51.831, -29.565],
+                      [43.262, -37.158],
+                      [53.76, -53.125],
+                      [47.632, -67.261],
+                      [30.859, -72.412],
+                      [14.526, -67.383],
+                      [8.203, -53.662],
+                      [18.848, -37.305],
+                      [9.985, -29.858],
+                      [6.787, -19.287],
+                      [10.034, -8.252],
+                      [18.75, -1.221],
+                      [31.201, 1.123]
+                    ],
+                    "c": true
+                  },
+                  "ix": 2
+                },
+                "nm": "8",
+                "mn": "ADBE Vector Shape - Group",
+                "hd": false,
+                "_render": true
+              },
+              {
+                "p": { "k": [0, 0], "a": 0 },
+                "s": { "k": [42, 42], "a": 0 },
+                "a": { "k": [0, 0], "a": 0 },
+                "r": { "k": 0, "a": 0 },
+                "o": { "k": 100, "a": 0 },
+                "sk": { "k": 0, "a": 0 },
+                "sa": { "k": 0, "a": 0 },
+                "ty": "tr",
+                "_render": true
+              }
+            ],
+            "nm": "8",
+            "np": 6,
+            "cix": 2,
+            "bm": 0,
+            "ix": 1,
+            "mn": "ADBE Vector Group",
+            "hd": false,
+            "_render": true
+          },
+          { "ty": "no", "_render": true }
+        ],
+        "ip": 0,
+        "op": 99999,
+        "st": 0,
+        "sr": 1,
+        "ks": {
+          "p": { "k": [0, 0], "a": 0 },
+          "s": { "k": [100, 100], "a": 0 },
+          "a": { "k": [0, 0], "a": 0 },
+          "r": { "k": 0, "a": 0 },
+          "o": { "k": 100, "a": 0 }
+        }
+      },
+      "fFamily": "Muli"
+    },
+    {
+      "ch": "9",
+      "size": 42,
+      "style": "Bold",
+      "w": 62.11,
+      "data": {
+        "shapes": [
+          {
+            "ty": "gr",
+            "it": [
+              {
+                "ind": 0,
+                "ty": "sh",
+                "ix": 1,
+                "ks": {
+                  "a": 0,
+                  "k": {
+                    "i": [
+                      [22.745, -36.760000000000005],
+                      [17.822, -44.759],
+                      [18.953000000000003, -55.754000000000005],
+                      [26.496, -61.816],
+                      [36.727000000000004, -60.636],
+                      [42.139, -53.027],
+                      [40.958999999999996, -41.568999999999996],
+                      [33.155, -35.547]
+                    ],
+                    "o": [
+                      [18.806, -41.61],
+                      [17.822, -52.571000000000005],
+                      [23.478, -60.604],
+                      [33.853, -61.816],
+                      [41.056000000000004, -55.915000000000006],
+                      [42.139, -45.051],
+                      [36.238, -36.751],
+                      [25.602, -35.547]
+                    ],
+                    "v": [
+                      [20.776, -39.185],
+                      [17.822, -48.633],
+                      [21.216, -58.179],
+                      [30.273, -61.816],
+                      [38.892, -58.276],
+                      [42.139, -49.609],
+                      [38.599, -39.16],
+                      [29.346, -35.547]
+                    ],
+                    "c": true
+                  },
+                  "ix": 2
+                },
+                "nm": "9",
+                "mn": "ADBE Vector Shape - Group",
+                "hd": false,
+                "_render": true
+              },
+              {
+                "ind": 1,
+                "ty": "sh",
+                "ix": 2,
+                "ks": {
+                  "a": 0,
+                  "k": {
+                    "i": [
+                      [37.931, -0.3979999999999997],
+                      [49.446, -11.653],
+                      [54.736, -30.029],
+                      [52.56400000000001, -57.641999999999996],
+                      [37.711, -72.412],
+                      [16.471, -70.149],
+                      [5.322, -55.355000000000004],
+                      [7.398, -35.905],
+                      [21.223, -25.244],
+                      [39.421, -27.49],
+                      [42.383, -30.713],
+                      [41.943, -23.804000000000002],
+                      [38.981, -16.031],
+                      [34.211999999999996, -11.564],
+                      [28.401, -9.57],
+                      [17.594, -10.986],
+                      [8.838, -3.76],
+                      [21.776999999999997, 1.27]
+                    ],
+                    "o": [
+                      [46.296, -7.071],
+                      [53.678, -23.307000000000002],
+                      [54.736, -49.006],
+                      [43.872, -69.458],
+                      [22.379, -72.412],
+                      [7.5520000000000005, -61.1],
+                      [5.322, -41.487],
+                      [15.698, -27.375999999999998],
+                      [34.668, -25.244],
+                      [42.383, -31.982],
+                      [42.383, -27.034000000000002],
+                      [40.185, -18.238],
+                      [35.921, -12.776],
+                      [30.436, -9.969],
+                      [21.891, -9.57],
+                      [13.33, -13.818],
+                      [15.640999999999998, -0.4069999999999996],
+                      [32.975, 1.27]
+                    ],
+                    "v": [
+                      [42.114, -3.735],
+                      [51.562, -17.48],
+                      [54.736, -37.646],
+                      [48.218, -63.55],
+                      [29.736, -72.412],
+                      [12.012, -65.625],
+                      [5.322, -48.389],
+                      [11.548, -31.641],
+                      [28.125, -25.244],
+                      [42.383, -31.982],
+                      [42.383, -30.713],
+                      [41.064, -21.021],
+                      [37.451, -14.404],
+                      [32.324, -10.767],
+                      [26.221, -9.57],
+                      [13.33, -13.818],
+                      [8.838, -3.76],
+                      [27.246, 1.27]
+                    ],
+                    "c": true
+                  },
+                  "ix": 2
+                },
+                "nm": "9",
+                "mn": "ADBE Vector Shape - Group",
+                "hd": false,
+                "_render": true
+              },
+              {
+                "p": { "k": [0, 0], "a": 0 },
+                "s": { "k": [42, 42], "a": 0 },
+                "a": { "k": [0, 0], "a": 0 },
+                "r": { "k": 0, "a": 0 },
+                "o": { "k": 100, "a": 0 },
+                "sk": { "k": 0, "a": 0 },
+                "sa": { "k": 0, "a": 0 },
+                "ty": "tr",
+                "_render": true
+              }
+            ],
+            "nm": "9",
+            "np": 5,
+            "cix": 2,
+            "bm": 0,
+            "ix": 1,
+            "mn": "ADBE Vector Group",
+            "hd": false,
+            "_render": true
+          },
+          { "ty": "no", "_render": true }
+        ],
+        "ip": 0,
+        "op": 99999,
+        "st": 0,
+        "sr": 1,
+        "ks": {
+          "p": { "k": [0, 0], "a": 0 },
+          "s": { "k": [100, 100], "a": 0 },
+          "a": { "k": [0, 0], "a": 0 },
+          "r": { "k": 0, "a": 0 },
+          "o": { "k": 100, "a": 0 }
+        }
+      },
+      "fFamily": "Muli"
+    },
+    {
+      "ch": "0",
+      "size": 42,
+      "style": "Bold",
+      "w": 62.11,
+      "data": {
+        "shapes": [
+          {
+            "ty": "gr",
+            "it": [
+              {
+                "ind": 0,
+                "ty": "sh",
+                "ix": 1,
+                "ks": {
+                  "a": 0,
+                  "k": {
+                    "i": [
+                      [41.007, -0.45500000000000007],
+                      [51.416000000000004, -11.125],
+                      [56.055, -28.727000000000004],
+                      [53.898, -56.217],
+                      [39.127, -72.412],
+                      [16.837, -69.246],
+                      [6.055, -47.673],
+                      [8.243, -15.763],
+                      [23.145, 1.123]
+                    ],
+                    "o": [
+                      [48.592, -6.77],
+                      [55.126, -22.225],
+                      [56.055, -47.38],
+                      [45.271, -69.172],
+                      [23.047, -72.412],
+                      [8.209999999999999, -56.583],
+                      [6.055, -24.821],
+                      [17, -2.2540000000000004],
+                      [36.426, 1.123]
+                    ],
+                    "v": [
+                      [44.8, -3.613],
+                      [53.271, -16.675],
+                      [56.055, -36.182],
+                      [49.585, -62.695],
+                      [31.152, -72.412],
+                      [12.524, -62.915],
+                      [6.055, -36.182],
+                      [12.622, -9.009],
+                      [31.055, 1.123]
+                    ],
+                    "c": true
+                  },
+                  "ix": 2
+                },
+                "nm": "0",
+                "mn": "ADBE Vector Shape - Group",
+                "hd": false,
+                "_render": true
+              },
+              {
+                "ind": 1,
+                "ty": "sh",
+                "ix": 2,
+                "ks": {
+                  "a": 0,
+                  "k": {
+                    "i": [
+                      [26.953, -10.124],
+                      [22.339000000000002, -14.607000000000001],
+                      [19.808, -22.298],
+                      [18.75, -32.047000000000004],
+                      [18.962000000000003, -42.773],
+                      [20.475, -51.342999999999996],
+                      [23.599999999999998, -58.276],
+                      [28.987, -61.816],
+                      [35.425000000000004, -61.108],
+                      [39.9, -56.323],
+                      [42.35, -48.633],
+                      [43.408, -39.583000000000006],
+                      [39.355000000000004, -9.473]
+                    ],
+                    "o": [
+                      [23.633, -12.728],
+                      [20.483, -19.522000000000002],
+                      [18.962000000000003, -28.482999999999997],
+                      [18.75, -39.567],
+                      [19.808, -48.633],
+                      [22.298000000000002, -56.323],
+                      [26.985, -61.108],
+                      [33.512, -61.816],
+                      [38.647, -58.276],
+                      [41.691, -51.342999999999996],
+                      [43.196000000000005, -42.773],
+                      [43.408, -18.360000000000003],
+                      [28.938, -9.473]
+                    ],
+                    "v": [
+                      [25.293, -11.426],
+                      [21.411, -17.065],
+                      [19.385, -25.391],
+                      [18.75, -36.084],
+                      [19.385, -45.703],
+                      [21.387, -53.833],
+                      [25.293, -59.692],
+                      [31.299, -61.816],
+                      [37.036, -59.692],
+                      [40.796, -53.833],
+                      [42.773, -45.703],
+                      [43.408, -36.133],
+                      [31.25, -9.473]
+                    ],
+                    "c": true
+                  },
+                  "ix": 2
+                },
+                "nm": "0",
+                "mn": "ADBE Vector Shape - Group",
+                "hd": false,
+                "_render": true
+              },
+              {
+                "p": { "k": [0, 0], "a": 0 },
+                "s": { "k": [42, 42], "a": 0 },
+                "a": { "k": [0, 0], "a": 0 },
+                "r": { "k": 0, "a": 0 },
+                "o": { "k": 100, "a": 0 },
+                "sk": { "k": 0, "a": 0 },
+                "sa": { "k": 0, "a": 0 },
+                "ty": "tr",
+                "_render": true
+              }
+            ],
+            "nm": "0",
+            "np": 5,
+            "cix": 2,
+            "bm": 0,
+            "ix": 1,
+            "mn": "ADBE Vector Group",
+            "hd": false,
+            "_render": true
+          },
+          { "ty": "no", "_render": true }
+        ],
+        "ip": 0,
+        "op": 99999,
+        "st": 0,
+        "sr": 1,
+        "ks": {
+          "p": { "k": [0, 0], "a": 0 },
+          "s": { "k": [100, 100], "a": 0 },
+          "a": { "k": [0, 0], "a": 0 },
+          "r": { "k": 0, "a": 0 },
+          "o": { "k": 100, "a": 0 }
+        }
+      },
+      "fFamily": "Muli"
+    },
+    {
+      "ch": "%",
+      "size": 42,
+      "style": "Bold",
+      "w": 92.72,
+      "data": {
+        "shapes": [
+          {
+            "ty": "gr",
+            "it": [
+              {
+                "ind": 0,
+                "ty": "sh",
+                "ix": 1,
+                "ks": {
+                  "a": 0,
+                  "k": {
+                    "i": [
+                      [79.769, -0.7570000000000001],
+                      [87.988, -12.125],
+                      [86.32799999999999, -27.181],
+                      [75.342, -36.133],
+                      [60.269999999999996, -34.35],
+                      [52.051, -22.802],
+                      [53.694, -7.731],
+                      [64.616, 0.977]
+                    ],
+                    "o": [
+                      [86.345, -7.691000000000001],
+                      [87.988, -22.77],
+                      [79.688, -34.342],
+                      [64.60000000000001, -36.133],
+                      [53.694, -27.222],
+                      [52.051, -12.158],
+                      [60.269999999999996, -0.7640000000000002],
+                      [75.423, 0.977]
+                    ],
+                    "v": [
+                      [83.057, -4.224],
+                      [87.988, -17.529],
+                      [83.008, -30.762],
+                      [69.971, -36.133],
+                      [56.982, -30.786],
+                      [52.051, -17.529],
+                      [56.982, -4.248],
+                      [70.02, 0.977]
+                    ],
+                    "c": true
+                  },
+                  "ix": 2
+                },
+                "nm": "%",
+                "mn": "ADBE Vector Shape - Group",
+                "hd": false,
+                "_render": true
+              },
+              {
+                "ind": 1,
+                "ty": "sh",
+                "ix": 2,
+                "ks": {
+                  "a": 0,
+                  "k": {
+                    "i": [
+                      [65.479, -7.511],
+                      [62.305, -13.768999999999998],
+                      [62.922999999999995, -23.99],
+                      [67.334, -28.467],
+                      [74.593, -27.555],
+                      [77.686, -21.174],
+                      [77.043, -10.953999999999999],
+                      [72.542, -6.641]
+                    ],
+                    "o": [
+                      [62.939, -10.994],
+                      [62.305, -21.256],
+                      [65.39699999999999, -27.570999999999998],
+                      [72.64, -28.467],
+                      [77.067, -23.909],
+                      [77.686, -13.719999999999999],
+                      [74.471, -7.502999999999999],
+                      [67.399, -6.641]
+                    ],
+                    "v": [
+                      [64.209, -9.253],
+                      [62.305, -17.578],
+                      [64.16, -25.781],
+                      [69.971, -28.467],
+                      [75.83, -25.732],
+                      [77.686, -17.529],
+                      [75.757, -9.229],
+                      [69.971, -6.641]
+                    ],
+                    "c": true
+                  },
+                  "ix": 2
+                },
+                "nm": "%",
+                "mn": "ADBE Vector Shape - Group",
+                "hd": false,
+                "_render": true
+              },
+              {
+                "ind": 2,
+                "ty": "sh",
+                "ix": 3,
+                "ks": {
+                  "a": 0,
+                  "k": {
+                    "i": [
+                      [28.76, 0],
+                      [74.219, -71.094],
+                      [64.307, -71.094],
+                      [18.848, 0]
+                    ],
+                    "o": [
+                      [28.76, 0],
+                      [74.219, -71.094],
+                      [64.307, -71.094],
+                      [18.848, 0]
+                    ],
+                    "v": [
+                      [28.76, 0],
+                      [74.219, -71.094],
+                      [64.307, -71.094],
+                      [18.848, 0]
+                    ],
+                    "c": true
+                  },
+                  "ix": 2
+                },
+                "nm": "%",
+                "mn": "ADBE Vector Shape - Group",
+                "hd": false,
+                "_render": true
+              },
+              {
+                "ind": 3,
+                "ty": "sh",
+                "ix": 4,
+                "ks": {
+                  "a": 0,
+                  "k": {
+                    "i": [
+                      [32.617000000000004, -36.54],
+                      [40.674, -47.591],
+                      [39.053999999999995, -63.589999999999996],
+                      [28.206, -71.973],
+                      [12.793, -70.304],
+                      [4.736, -59.114],
+                      [6.347, -43.09],
+                      [17.171, -34.912]
+                    ],
+                    "o": [
+                      [39.063, -43.050000000000004],
+                      [40.674, -59.082],
+                      [32.576, -70.295],
+                      [17.171, -71.973],
+                      [6.347, -63.631],
+                      [4.736, -47.623],
+                      [12.793, -36.548],
+                      [28.238999999999997, -34.912]
+                    ],
+                    "v": [
+                      [35.84, -39.795],
+                      [40.674, -53.418],
+                      [35.815, -66.943],
+                      [22.705, -71.973],
+                      [9.57, -66.968],
+                      [4.736, -53.418],
+                      [9.57, -39.819],
+                      [22.705, -34.912]
+                    ],
+                    "c": true
+                  },
+                  "ix": 2
+                },
+                "nm": "%",
+                "mn": "ADBE Vector Shape - Group",
+                "hd": false,
+                "_render": true
+              },
+              {
+                "ind": 4,
+                "ty": "sh",
+                "ix": 5,
+                "ks": {
+                  "a": 0,
+                  "k": {
+                    "i": [
+                      [18.213, -43.391],
+                      [15.039, -49.609],
+                      [15.649000000000001, -59.839],
+                      [20.034999999999997, -64.355],
+                      [27.319, -63.444],
+                      [30.371, -57.047],
+                      [29.737, -46.80200000000001],
+                      [25.276, -42.529]
+                    ],
+                    "o": [
+                      [15.673000000000002, -46.842],
+                      [15.039, -57.096],
+                      [18.091, -63.453],
+                      [25.374, -64.355],
+                      [29.761, -59.798],
+                      [30.371, -49.56],
+                      [27.197, -43.384],
+                      [20.133, -42.529]
+                    ],
+                    "v": [
+                      [16.943, -45.117],
+                      [15.039, -53.418],
+                      [16.87, -61.646],
+                      [22.705, -64.355],
+                      [28.54, -61.621],
+                      [30.371, -53.369],
+                      [28.467, -45.093],
+                      [22.705, -42.529]
+                    ],
+                    "c": true
+                  },
+                  "ix": 2
+                },
+                "nm": "%",
+                "mn": "ADBE Vector Shape - Group",
+                "hd": false,
+                "_render": true
+              },
+              {
+                "p": { "k": [0, 0], "a": 0 },
+                "s": { "k": [42, 42], "a": 0 },
+                "a": { "k": [0, 0], "a": 0 },
+                "r": { "k": 0, "a": 0 },
+                "o": { "k": 100, "a": 0 },
+                "sk": { "k": 0, "a": 0 },
+                "sa": { "k": 0, "a": 0 },
+                "ty": "tr",
+                "_render": true
+              }
+            ],
+            "nm": "%",
+            "np": 8,
+            "cix": 2,
+            "bm": 0,
+            "ix": 1,
+            "mn": "ADBE Vector Group",
+            "hd": false,
+            "_render": true
+          },
+          { "ty": "no", "_render": true }
+        ],
+        "ip": 0,
+        "op": 99999,
+        "st": 0,
+        "sr": 1,
+        "ks": {
+          "p": { "k": [0, 0], "a": 0 },
+          "s": { "k": [100, 100], "a": 0 },
+          "a": { "k": [0, 0], "a": 0 },
+          "r": { "k": 0, "a": 0 },
+          "o": { "k": 100, "a": 0 }
+        }
+      },
+      "fFamily": "Muli"
+    },
+    {
+      "ch": "L",
+      "size": 42,
+      "style": "Bold",
+      "w": 57.28,
+      "data": {
+        "shapes": [
+          {
+            "ty": "gr",
+            "it": [
+              {
+                "ind": 0,
+                "ty": "sh",
+                "ix": 1,
+                "ks": {
+                  "a": 0,
+                  "k": {
+                    "i": [
+                      [54.59, 0],
+                      [54.59, -10.645],
+                      [21.68, -10.645],
+                      [21.68, -71.094],
+                      [9.277, -71.094],
+                      [9.277, 0]
+                    ],
+                    "o": [
+                      [54.59, 0],
+                      [54.59, -10.645],
+                      [21.68, -10.645],
+                      [21.68, -71.094],
+                      [9.277, -71.094],
+                      [9.277, 0]
+                    ],
+                    "v": [
+                      [54.59, 0],
+                      [54.59, -10.645],
+                      [21.68, -10.645],
+                      [21.68, -71.094],
+                      [9.277, -71.094],
+                      [9.277, 0]
+                    ],
+                    "c": true
+                  },
+                  "ix": 2
+                },
+                "nm": "L",
+                "mn": "ADBE Vector Shape - Group",
+                "hd": false,
+                "_render": true
+              },
+              {
+                "p": { "k": [0, 0], "a": 0 },
+                "s": { "k": [42, 42], "a": 0 },
+                "a": { "k": [0, 0], "a": 0 },
+                "r": { "k": 0, "a": 0 },
+                "o": { "k": 100, "a": 0 },
+                "sk": { "k": 0, "a": 0 },
+                "sa": { "k": 0, "a": 0 },
+                "ty": "tr",
+                "_render": true
+              }
+            ],
+            "nm": "L",
+            "np": 3,
+            "cix": 2,
+            "bm": 0,
+            "ix": 1,
+            "mn": "ADBE Vector Group",
+            "hd": false,
+            "_render": true
+          },
+          { "ty": "no", "_render": true }
+        ],
+        "ip": 0,
+        "op": 99999,
+        "st": 0,
+        "sr": 1,
+        "ks": {
+          "p": { "k": [0, 0], "a": 0 },
+          "s": { "k": [100, 100], "a": 0 },
+          "a": { "k": [0, 0], "a": 0 },
+          "r": { "k": 0, "a": 0 },
+          "o": { "k": 100, "a": 0 }
+        }
+      },
+      "fFamily": "Muli"
+    },
+    {
+      "ch": "o",
+      "size": 42,
+      "style": "Bold",
+      "w": 62.79,
+      "data": {
+        "shapes": [
+          {
+            "ty": "gr",
+            "it": [
+              {
+                "ind": 0,
+                "ty": "sh",
+                "ix": 1,
+                "ks": {
+                  "a": 0,
+                  "k": {
+                    "i": [
+                      [39.673, 0.40700000000000003],
+                      [49.128, -4.3950000000000005],
+                      [54.834, -12.036],
+                      [57.52, -21.467],
+                      [57.006, -32.086999999999996],
+                      [53.418, -41.154],
+                      [46.598, -47.908],
+                      [35.954, -51.367],
+                      [23.494, -50.667],
+                      [13.924, -45.955],
+                      [8.040000000000001, -38.321999999999996],
+                      [5.273, -28.662],
+                      [5.818, -18.171],
+                      [9.594000000000001, -9.187999999999999],
+                      [16.553, -2.417],
+                      [27.278999999999996, 1.123]
+                    ],
+                    "o": [
+                      [46.411, -2.457],
+                      [53.263, -9.277000000000001],
+                      [56.982, -18.188],
+                      [57.52, -28.662],
+                      [54.956, -38.37],
+                      [49.315999999999995, -46.004],
+                      [39.827, -50.675000000000004],
+                      [27.326999999999998, -51.367],
+                      [16.691, -47.868],
+                      [9.66, -41.105000000000004],
+                      [5.827, -32.038999999999994],
+                      [5.273, -21.500999999999998],
+                      [7.999, -11.954],
+                      [13.794, -4.338],
+                      [23.389, 0.41500000000000004],
+                      [35.872, 1.123]
+                    ],
+                    "v": [
+                      [43.042, -1.025],
+                      [51.196, -6.836],
+                      [55.908, -15.112],
+                      [57.52, -24.951],
+                      [55.981, -35.229],
+                      [51.367, -43.579],
+                      [43.213, -49.292],
+                      [31.592, -51.367],
+                      [20.093, -49.268],
+                      [11.792, -43.53],
+                      [6.934, -35.181],
+                      [5.273, -25.049],
+                      [6.909, -15.063],
+                      [11.694, -6.763],
+                      [19.971, -1.001],
+                      [31.641, 1.123]
+                    ],
+                    "c": true
+                  },
+                  "ix": 2
+                },
+                "nm": "o",
+                "mn": "ADBE Vector Shape - Group",
+                "hd": false,
+                "_render": true
+              },
+              {
+                "ind": 1,
+                "ty": "sh",
+                "ix": 2,
+                "ks": {
+                  "a": 0,
+                  "k": {
+                    "i": [
+                      [25.708000000000002, -9.44],
+                      [20.026999999999997, -14.632000000000001],
+                      [17.871, -22.168],
+                      [18.335, -30.989000000000004],
+                      [21.695, -37.767999999999994],
+                      [28.418, -41.553],
+                      [39.265, -40.022],
+                      [44.922, -29.98],
+                      [44.669, -20.865000000000002],
+                      [42.894999999999996, -15.275],
+                      [39.436, -10.879999999999999],
+                      [33.772, -8.643]
+                    ],
+                    "o": [
+                      [21.508, -12.63],
+                      [18.302, -19.45],
+                      [17.871, -28.254],
+                      [20.191000000000003, -35.807],
+                      [25.862000000000002, -40.796],
+                      [35.903999999999996, -41.553],
+                      [43.79, -33.903],
+                      [44.922, -22.949],
+                      [43.66, -17.024],
+                      [40.845, -12.116999999999999],
+                      [35.855000000000004, -9.088999999999999],
+                      [28.303, -8.643]
+                    ],
+                    "v": [
+                      [23.608, -11.035],
+                      [19.165, -17.041],
+                      [17.871, -25.195],
+                      [19.263, -33.398],
+                      [23.779, -39.282],
+                      [31.445, -41.553],
+                      [41.528, -36.963],
+                      [44.922, -25.195],
+                      [44.165, -18.945],
+                      [41.87, -13.696],
+                      [37.646, -9.985],
+                      [31.396, -8.643]
+                    ],
+                    "c": true
+                  },
+                  "ix": 2
+                },
+                "nm": "o",
+                "mn": "ADBE Vector Shape - Group",
+                "hd": false,
+                "_render": true
+              },
+              {
+                "p": { "k": [0, 0], "a": 0 },
+                "s": { "k": [42, 42], "a": 0 },
+                "a": { "k": [0, 0], "a": 0 },
+                "r": { "k": 0, "a": 0 },
+                "o": { "k": 100, "a": 0 },
+                "sk": { "k": 0, "a": 0 },
+                "sa": { "k": 0, "a": 0 },
+                "ty": "tr",
+                "_render": true
+              }
+            ],
+            "nm": "o",
+            "np": 5,
+            "cix": 2,
+            "bm": 0,
+            "ix": 1,
+            "mn": "ADBE Vector Group",
+            "hd": false,
+            "_render": true
+          },
+          { "ty": "no", "_render": true }
+        ],
+        "ip": 0,
+        "op": 99999,
+        "st": 0,
+        "sr": 1,
+        "ks": {
+          "p": { "k": [0, 0], "a": 0 },
+          "s": { "k": [100, 100], "a": 0 },
+          "a": { "k": [0, 0], "a": 0 },
+          "r": { "k": 0, "a": 0 },
+          "o": { "k": 100, "a": 0 }
+        }
+      },
+      "fFamily": "Muli"
+    },
+    {
+      "ch": "a",
+      "size": 42,
+      "style": "Bold",
+      "w": 63.04,
+      "data": {
+        "shapes": [
+          {
+            "ty": "gr",
+            "it": [
+              {
+                "ind": 0,
+                "ty": "sh",
+                "ix": 1,
+                "ks": {
+                  "a": 0,
+                  "k": {
+                    "i": [
+                      [23.267, -10.14],
+                      [17.285, -20.133000000000003],
+                      [18.480999999999998, -34.147],
+                      [26.709, -41.553],
+                      [39.216, -40.08],
+                      [44.873, -30.159],
+                      [43.806999999999995, -16.089],
+                      [36.133, -8.643]
+                    ],
+                    "o": [
+                      [18.480999999999998, -16.13],
+                      [17.285, -30.159],
+                      [23.267, -40.071000000000005],
+                      [35.791, -41.553],
+                      [43.741, -34.188],
+                      [44.873, -20.069],
+                      [39.543, -10.131],
+                      [26.79, -8.643]
+                    ],
+                    "v": [
+                      [20.874, -13.135],
+                      [17.285, -25.146],
+                      [20.874, -37.109],
+                      [31.201, -41.553],
+                      [41.479, -37.134],
+                      [44.873, -25.049],
+                      [41.675, -13.11],
+                      [31.445, -8.643]
+                    ],
+                    "c": true
+                  },
+                  "ix": 2
+                },
+                "nm": "a",
+                "mn": "ADBE Vector Shape - Group",
+                "hd": false,
+                "_render": true
+              },
+              {
+                "ind": 1,
+                "ty": "sh",
+                "ix": 2,
+                "ks": {
+                  "a": 0,
+                  "k": {
+                    "i": [
+                      [40.543, -1.5300000000000002],
+                      [44.189, 0],
+                      [56.348, 0],
+                      [56.348, -50.098],
+                      [44.482, -50.098],
+                      [44.482, -44.775],
+                      [36.573, -51.367],
+                      [22.624, -50.611000000000004],
+                      [13.402999999999999, -45.548],
+                      [7.877000000000001, -37.589],
+                      [5.273, -27.995],
+                      [5.7780000000000005, -18.083],
+                      [9.277000000000001, -9.375],
+                      [15.771, -2.539],
+                      [25.862, 1.123]
+                    ],
+                    "o": [
+                      [44.189, -6.836],
+                      [44.189, 0],
+                      [56.348, 0],
+                      [56.348, -50.098],
+                      [44.482, -50.098],
+                      [41.227, -49.17],
+                      [26.351, -51.367],
+                      [16.048, -47.583],
+                      [9.399000000000001, -40.437000000000005],
+                      [5.7940000000000005, -31.306],
+                      [5.273, -21.224],
+                      [7.795999999999999, -12.093],
+                      [13.183, -4.493],
+                      [22.217, 0.391],
+                      [35.791, 1.123]
+                    ],
+                    "v": [
+                      [44.189, -6.836],
+                      [44.189, 0],
+                      [56.348, 0],
+                      [56.348, -50.098],
+                      [44.482, -50.098],
+                      [44.482, -44.775],
+                      [30.518, -51.367],
+                      [19.336, -49.097],
+                      [11.401, -42.993],
+                      [6.836, -34.448],
+                      [5.273, -24.512],
+                      [6.787, -15.088],
+                      [11.23, -6.934],
+                      [18.994, -1.074],
+                      [29.932, 1.123]
+                    ],
+                    "c": true
+                  },
+                  "ix": 2
+                },
+                "nm": "a",
+                "mn": "ADBE Vector Shape - Group",
+                "hd": false,
+                "_render": true
+              },
+              {
+                "p": { "k": [0, 0], "a": 0 },
+                "s": { "k": [42, 42], "a": 0 },
+                "a": { "k": [0, 0], "a": 0 },
+                "r": { "k": 0, "a": 0 },
+                "o": { "k": 100, "a": 0 },
+                "sk": { "k": 0, "a": 0 },
+                "sa": { "k": 0, "a": 0 },
+                "ty": "tr",
+                "_render": true
+              }
+            ],
+            "nm": "a",
+            "np": 5,
+            "cix": 2,
+            "bm": 0,
+            "ix": 1,
+            "mn": "ADBE Vector Group",
+            "hd": false,
+            "_render": true
+          },
+          { "ty": "no", "_render": true }
+        ],
+        "ip": 0,
+        "op": 99999,
+        "st": 0,
+        "sr": 1,
+        "ks": {
+          "p": { "k": [0, 0], "a": 0 },
+          "s": { "k": [100, 100], "a": 0 },
+          "a": { "k": [0, 0], "a": 0 },
+          "r": { "k": 0, "a": 0 },
+          "o": { "k": 100, "a": 0 }
+        }
+      },
+      "fFamily": "Muli"
+    },
+    {
+      "ch": "d",
+      "size": 42,
+      "style": "Bold",
+      "w": 61.87,
+      "data": {
+        "shapes": [
+          {
+            "ty": "gr",
+            "it": [
+              {
+                "ind": 0,
+                "ty": "sh",
+                "ix": 1,
+                "ks": {
+                  "a": 0,
+                  "k": {
+                    "i": [
+                      [26.456, -9.088999999999999],
+                      [21.785, -12.116999999999999],
+                      [19.148, -17.024],
+                      [17.969, -22.949],
+                      [18.384, -31.021000000000004],
+                      [21.427, -37.728],
+                      [27.686, -41.553],
+                      [37.923, -40.014],
+                      [43.213, -29.883],
+                      [42.976, -20.784],
+                      [41.316, -15.275],
+                      [38.086, -10.879999999999999],
+                      [32.827999999999996, -8.643]
+                    ],
+                    "o": [
+                      [23.103, -10.879999999999999],
+                      [19.864, -15.275],
+                      [18.205, -20.865000000000002],
+                      [17.969, -28.287],
+                      [20.043999999999997, -35.774],
+                      [25.3, -40.788000000000004],
+                      [34.749, -41.553],
+                      [42.155, -33.862],
+                      [43.213, -22.819],
+                      [42.033, -17.008000000000003],
+                      [39.395, -12.116999999999999],
+                      [34.766000000000005, -9.088999999999999],
+                      [28.401, -8.643]
+                    ],
+                    "v": [
+                      [24.78, -9.985],
+                      [20.825, -13.696],
+                      [18.677, -18.945],
+                      [17.969, -25.195],
+                      [19.214, -33.398],
+                      [23.364, -39.258],
+                      [30.518, -41.553],
+                      [40.039, -36.938],
+                      [43.213, -25],
+                      [42.505, -18.896],
+                      [40.356, -13.696],
+                      [36.426, -9.985],
+                      [30.615, -8.643]
+                    ],
+                    "c": true
+                  },
+                  "ix": 2
+                },
+                "nm": "d",
+                "mn": "ADBE Vector Shape - Group",
+                "hd": false,
+                "_render": true
+              },
+              {
+                "ind": 1,
+                "ty": "sh",
+                "ix": 2,
+                "ks": {
+                  "a": 0,
+                  "k": {
+                    "i": [
+                      [32.308, 0.8620000000000001],
+                      [37.434, -0.8550000000000001],
+                      [40.625, -3.321],
+                      [42.480000000000004, -5.647],
+                      [42.871, 0],
+                      [55.273, 0],
+                      [54.834, -13.184],
+                      [54.834, -71.143],
+                      [42.822, -71.143],
+                      [42.822, -44.824],
+                      [40.21, -47.827000000000005],
+                      [32.503, -51.367],
+                      [21.744, -50.642],
+                      [13.061, -45.784],
+                      [7.795999999999999, -38.019999999999996],
+                      [5.273, -28.353],
+                      [7.462, -10.758],
+                      [21.647, 1.123]
+                    ],
+                    "o": [
+                      [35.954, -0.178],
+                      [39.713, -2.515],
+                      [41.992999999999995, -4.883],
+                      [42.773, -6.396],
+                      [42.871, 0],
+                      [54.980000000000004, -8.723],
+                      [54.834, -13.379],
+                      [54.834, -71.143],
+                      [42.822, -71.143],
+                      [41.877, -46.354],
+                      [35.424, -50.659],
+                      [25.212, -51.367],
+                      [15.559000000000001, -47.745000000000005],
+                      [9.253, -40.837],
+                      [5.7780000000000005, -31.705],
+                      [5.273, -17.025],
+                      [16.219, -1.2530000000000001],
+                      [30.305, 1.123]
+                    ],
+                    "v": [
+                      [34.131, 0.342],
+                      [38.574, -1.685],
+                      [41.309, -4.102],
+                      [42.773, -6.396],
+                      [42.871, 0],
+                      [55.273, 0],
+                      [54.834, -13.379],
+                      [54.834, -71.143],
+                      [42.822, -71.143],
+                      [42.822, -44.824],
+                      [37.817, -49.243],
+                      [29.053, -51.367],
+                      [18.652, -49.194],
+                      [11.157, -43.311],
+                      [6.787, -34.863],
+                      [5.273, -24.805],
+                      [11.841, -6.006],
+                      [28.125, 1.123]
+                    ],
+                    "c": true
+                  },
+                  "ix": 2
+                },
+                "nm": "d",
+                "mn": "ADBE Vector Shape - Group",
+                "hd": false,
+                "_render": true
+              },
+              {
+                "p": { "k": [0, 0], "a": 0 },
+                "s": { "k": [42, 42], "a": 0 },
+                "a": { "k": [0, 0], "a": 0 },
+                "r": { "k": 0, "a": 0 },
+                "o": { "k": 100, "a": 0 },
+                "sk": { "k": 0, "a": 0 },
+                "sa": { "k": 0, "a": 0 },
+                "ty": "tr",
+                "_render": true
+              }
+            ],
+            "nm": "d",
+            "np": 5,
+            "cix": 2,
+            "bm": 0,
+            "ix": 1,
+            "mn": "ADBE Vector Group",
+            "hd": false,
+            "_render": true
+          },
+          { "ty": "no", "_render": true }
+        ],
+        "ip": 0,
+        "op": 99999,
+        "st": 0,
+        "sr": 1,
+        "ks": {
+          "p": { "k": [0, 0], "a": 0 },
+          "s": { "k": [100, 100], "a": 0 },
+          "a": { "k": [0, 0], "a": 0 },
+          "r": { "k": 0, "a": 0 },
+          "o": { "k": 100, "a": 0 }
+        }
+      },
+      "fFamily": "Muli"
+    },
+    {
+      "ch": "i",
+      "size": 42,
+      "style": "Bold",
+      "w": 25.59,
+      "data": {
+        "shapes": [
+          {
+            "ty": "gr",
+            "it": [
+              {
+                "ind": 0,
+                "ty": "sh",
+                "ix": 1,
+                "ks": {
+                  "a": 0,
+                  "k": {
+                    "i": [
+                      [18.652, -60.449],
+                      [18.652, -71.094],
+                      [6.934, -71.094],
+                      [6.934, -60.449]
+                    ],
+                    "o": [
+                      [18.652, -60.449],
+                      [18.652, -71.094],
+                      [6.934, -71.094],
+                      [6.934, -60.449]
+                    ],
+                    "v": [
+                      [18.652, -60.449],
+                      [18.652, -71.094],
+                      [6.934, -71.094],
+                      [6.934, -60.449]
+                    ],
+                    "c": true
+                  },
+                  "ix": 2
+                },
+                "nm": "i",
+                "mn": "ADBE Vector Shape - Group",
+                "hd": false,
+                "_render": true
+              },
+              {
+                "ind": 1,
+                "ty": "sh",
+                "ix": 2,
+                "ks": {
+                  "a": 0,
+                  "k": {
+                    "i": [
+                      [18.652, 0],
+                      [18.652, -50.098],
+                      [6.982, -50.098],
+                      [6.982, 0]
+                    ],
+                    "o": [
+                      [18.652, 0],
+                      [18.652, -50.098],
+                      [6.982, -50.098],
+                      [6.982, 0]
+                    ],
+                    "v": [
+                      [18.652, 0],
+                      [18.652, -50.098],
+                      [6.982, -50.098],
+                      [6.982, 0]
+                    ],
+                    "c": true
+                  },
+                  "ix": 2
+                },
+                "nm": "i",
+                "mn": "ADBE Vector Shape - Group",
+                "hd": false,
+                "_render": true
+              },
+              {
+                "p": { "k": [0, 0], "a": 0 },
+                "s": { "k": [42, 42], "a": 0 },
+                "a": { "k": [0, 0], "a": 0 },
+                "r": { "k": 0, "a": 0 },
+                "o": { "k": 100, "a": 0 },
+                "sk": { "k": 0, "a": 0 },
+                "sa": { "k": 0, "a": 0 },
+                "ty": "tr",
+                "_render": true
+              }
+            ],
+            "nm": "i",
+            "np": 5,
+            "cix": 2,
+            "bm": 0,
+            "ix": 1,
+            "mn": "ADBE Vector Group",
+            "hd": false,
+            "_render": true
+          },
+          { "ty": "no", "_render": true }
+        ],
+        "ip": 0,
+        "op": 99999,
+        "st": 0,
+        "sr": 1,
+        "ks": {
+          "p": { "k": [0, 0], "a": 0 },
+          "s": { "k": [100, 100], "a": 0 },
+          "a": { "k": [0, 0], "a": 0 },
+          "r": { "k": 0, "a": 0 },
+          "o": { "k": 100, "a": 0 }
+        }
+      },
+      "fFamily": "Muli"
+    },
+    {
+      "ch": "n",
+      "size": 42,
+      "style": "Bold",
+      "w": 59.77,
+      "data": {
+        "shapes": [
+          {
+            "ty": "gr",
+            "it": [
+              {
+                "ind": 0,
+                "ty": "sh",
+                "ix": 1,
+                "ks": {
+                  "a": 0,
+                  "k": {
+                    "i": [
+                      [19.824, 0],
+                      [19.824, -29.98],
+                      [20.264, -33.422999999999995],
+                      [23.119999999999997, -37.671],
+                      [27.116, -40.25],
+                      [31.200999999999997, -41.553],
+                      [37.849, -40.632999999999996],
+                      [41.309, -33.822],
+                      [41.309, 0],
+                      [53.418, 0],
+                      [53.418, -28.564],
+                      [52.979, -36.458000000000006],
+                      [49.943000000000005, -44.8],
+                      [44.66, -49.455],
+                      [37.76, -51.367],
+                      [29.37, -50.691],
+                      [21.305, -46.012],
+                      [19.58, -50.098],
+                      [6.738, -50.098],
+                      [6.982, -47.949],
+                      [7.308, -44.263],
+                      [7.715, -34.554],
+                      [7.715, 0]
+                    ],
+                    "o": [
+                      [19.824, 0],
+                      [19.824, -31.77],
+                      [22.022000000000002, -36.451],
+                      [25.756, -39.526999999999994],
+                      [29.915, -41.291000000000004],
+                      [35.562999999999995, -41.553],
+                      [40.616, -36.955],
+                      [41.309, -29.395],
+                      [41.309, 0],
+                      [53.418, 0],
+                      [53.418, -32.828],
+                      [51.221000000000004, -42.448],
+                      [46.59, -48.218],
+                      [40.299, -50.984],
+                      [32.161, -51.367],
+                      [23.608, -47.99],
+                      [19.58, -43.408],
+                      [19.58, -50.098],
+                      [6.738, -50.098],
+                      [7.1450000000000005, -46.549],
+                      [7.634, -37.915],
+                      [7.715, -31.006],
+                      [7.715, 0]
+                    ],
+                    "v": [
+                      [19.824, 0],
+                      [19.824, -29.98],
+                      [21.143, -34.937],
+                      [24.438, -38.599],
+                      [28.516, -40.771],
+                      [32.373, -41.553],
+                      [39.233, -38.794],
+                      [41.309, -29.395],
+                      [41.309, 0],
+                      [53.418, 0],
+                      [53.418, -28.564],
+                      [52.1, -39.453],
+                      [48.267, -46.509],
+                      [42.48, -50.22],
+                      [34.863, -51.367],
+                      [26.489, -49.341],
+                      [19.58, -43.408],
+                      [19.58, -50.098],
+                      [6.738, -50.098],
+                      [6.982, -47.949],
+                      [7.471, -41.089],
+                      [7.715, -31.006],
+                      [7.715, 0]
+                    ],
+                    "c": true
+                  },
+                  "ix": 2
+                },
+                "nm": "n",
+                "mn": "ADBE Vector Shape - Group",
+                "hd": false,
+                "_render": true
+              },
+              {
+                "p": { "k": [0, 0], "a": 0 },
+                "s": { "k": [42, 42], "a": 0 },
+                "a": { "k": [0, 0], "a": 0 },
+                "r": { "k": 0, "a": 0 },
+                "o": { "k": 100, "a": 0 },
+                "sk": { "k": 0, "a": 0 },
+                "sa": { "k": 0, "a": 0 },
+                "ty": "tr",
+                "_render": true
+              }
+            ],
+            "nm": "n",
+            "np": 3,
+            "cix": 2,
+            "bm": 0,
+            "ix": 1,
+            "mn": "ADBE Vector Group",
+            "hd": false,
+            "_render": true
+          },
+          { "ty": "no", "_render": true }
+        ],
+        "ip": 0,
+        "op": 99999,
+        "st": 0,
+        "sr": 1,
+        "ks": {
+          "p": { "k": [0, 0], "a": 0 },
+          "s": { "k": [100, 100], "a": 0 },
+          "a": { "k": [0, 0], "a": 0 },
+          "r": { "k": 0, "a": 0 },
+          "o": { "k": 100, "a": 0 }
+        }
+      },
+      "fFamily": "Muli"
+    },
+    {
+      "ch": "g",
+      "size": 42,
+      "style": "Bold",
+      "w": 60.3,
+      "data": {
+        "shapes": [
+          {
+            "ty": "gr",
+            "it": [
+              {
+                "ind": 0,
+                "ty": "sh",
+                "ix": 1,
+                "ks": {
+                  "a": 0,
+                  "k": {
+                    "i": [
+                      [23.096000000000004, -10.547],
+                      [17.969, -20.133000000000003],
+                      [18.407999999999998, -30.794000000000004],
+                      [21.59, -37.606],
+                      [27.913, -41.553],
+                      [37.833, -40.047000000000004],
+                      [42.92, -30.078],
+                      [42.814, -22.029],
+                      [42, -17.692],
+                      [40.120000000000005, -13.598],
+                      [37.11000000000001, -10.718],
+                      [32.486, -9.131]
+                    ],
+                    "o": [
+                      [18.994, -16.211],
+                      [17.969, -28.108],
+                      [20.166, -35.612],
+                      [25.529, -40.764],
+                      [34.782000000000004, -41.553],
+                      [41.902, -34.025],
+                      [42.92, -23.567],
+                      [42.391, -19.131999999999998],
+                      [40.861, -14.827000000000002],
+                      [38.297000000000004, -11.548],
+                      [34.18, -9.448],
+                      [26.269, -9.131]
+                    ],
+                    "v": [
+                      [21.045, -13.379],
+                      [17.969, -25.146],
+                      [19.287, -33.203],
+                      [23.56, -39.185],
+                      [30.713, -41.553],
+                      [39.868, -37.036],
+                      [42.92, -25.195],
+                      [42.603, -20.581],
+                      [41.431, -16.26],
+                      [39.209, -12.573],
+                      [35.645, -10.083],
+                      [30.566, -9.131]
+                    ],
+                    "c": true
+                  },
+                  "ix": 2
+                },
+                "nm": "g",
+                "mn": "ADBE Vector Shape - Group",
+                "hd": false,
+                "_render": true
+              },
+              {
+                "ind": 1,
+                "ty": "sh",
+                "ix": 2,
+                "ks": {
+                  "a": 0,
+                  "k": {
+                    "i": [
+                      [54.199, 11.212999999999997],
+                      [54.199, -33.301],
+                      [54.524, -45.15],
+                      [42.334, -50.098],
+                      [42.334, -44.727],
+                      [39.265, -48.275],
+                      [31.901, -51.367],
+                      [21.362000000000002, -50.651],
+                      [12.744, -45.832],
+                      [7.633, -38.11],
+                      [5.273, -28.662],
+                      [7.502999999999999, -11.353000000000002],
+                      [22.346, 0],
+                      [39.419999999999995, -1.9849999999999999],
+                      [42.285, -1.709],
+                      [40.967, 5.347],
+                      [32.032000000000004, 10.352],
+                      [16.162, 9.082],
+                      [9.18, 16.992],
+                      [21.712, 20.41]
+                    ],
+                    "o": [
+                      [54.199, -7.178],
+                      [54.199, -39.551],
+                      [55.176, -50.098],
+                      [42.334, -50.098],
+                      [41.064, -46.68],
+                      [34.61, -50.749],
+                      [24.87, -51.367],
+                      [15.21, -47.786],
+                      [9.033999999999999, -40.885000000000005],
+                      [5.744, -31.958],
+                      [5.273, -17.463],
+                      [16.421999999999997, -2.271],
+                      [35.237, 0],
+                      [42.285, -5.957],
+                      [42.285, 2.3269999999999995],
+                      [35.693, 9.350999999999999],
+                      [21.517000000000003, 10.352],
+                      [11.279, 6.543],
+                      [15.364, 19.27],
+                      [45.54, 20.41]
+                    ],
+                    "v": [
+                      [54.199, -7.178],
+                      [54.199, -33.301],
+                      [55.176, -50.098],
+                      [42.334, -50.098],
+                      [42.334, -44.727],
+                      [36.938, -49.512],
+                      [28.809, -51.367],
+                      [18.286, -49.219],
+                      [10.889, -43.359],
+                      [6.689, -35.034],
+                      [5.273, -25.146],
+                      [11.963, -6.812],
+                      [29.736, 0],
+                      [42.285, -5.957],
+                      [42.285, -1.709],
+                      [38.33, 7.349],
+                      [27.344, 10.352],
+                      [11.279, 6.543],
+                      [9.18, 16.992],
+                      [28.223, 20.41]
+                    ],
+                    "c": true
+                  },
+                  "ix": 2
+                },
+                "nm": "g",
+                "mn": "ADBE Vector Shape - Group",
+                "hd": false,
+                "_render": true
+              },
+              {
+                "p": { "k": [0, 0], "a": 0 },
+                "s": { "k": [42, 42], "a": 0 },
+                "a": { "k": [0, 0], "a": 0 },
+                "r": { "k": 0, "a": 0 },
+                "o": { "k": 100, "a": 0 },
+                "sk": { "k": 0, "a": 0 },
+                "sa": { "k": 0, "a": 0 },
+                "ty": "tr",
+                "_render": true
+              }
+            ],
+            "nm": "g",
+            "np": 5,
+            "cix": 2,
+            "bm": 0,
+            "ix": 1,
+            "mn": "ADBE Vector Group",
+            "hd": false,
+            "_render": true
+          },
+          { "ty": "no", "_render": true }
+        ],
+        "ip": 0,
+        "op": 99999,
+        "st": 0,
+        "sr": 1,
+        "ks": {
+          "p": { "k": [0, 0], "a": 0 },
+          "s": { "k": [100, 100], "a": 0 },
+          "a": { "k": [0, 0], "a": 0 },
+          "r": { "k": 0, "a": 0 },
+          "o": { "k": 100, "a": 0 }
+        }
+      },
+      "fFamily": "Muli"
+    },
+    {
+      "ch": ".",
+      "size": 42,
+      "style": "Bold",
+      "w": 26.32,
+      "data": {
+        "shapes": [
+          {
+            "ty": "gr",
+            "it": [
+              {
+                "ind": 0,
+                "ty": "sh",
+                "ix": 1,
+                "ks": {
+                  "a": 0,
+                  "k": {
+                    "i": [
+                      [19.58, 0],
+                      [19.58, -13.232],
+                      [5.42, -13.232],
+                      [5.42, 0]
+                    ],
+                    "o": [
+                      [19.58, 0],
+                      [19.58, -13.232],
+                      [5.42, -13.232],
+                      [5.42, 0]
+                    ],
+                    "v": [
+                      [19.58, 0],
+                      [19.58, -13.232],
+                      [5.42, -13.232],
+                      [5.42, 0]
+                    ],
+                    "c": true
+                  },
+                  "ix": 2
+                },
+                "nm": ".",
+                "mn": "ADBE Vector Shape - Group",
+                "hd": false,
+                "_render": true
+              },
+              {
+                "p": { "k": [0, 0], "a": 0 },
+                "s": { "k": [42, 42], "a": 0 },
+                "a": { "k": [0, 0], "a": 0 },
+                "r": { "k": 0, "a": 0 },
+                "o": { "k": 100, "a": 0 },
+                "sk": { "k": 0, "a": 0 },
+                "sa": { "k": 0, "a": 0 },
+                "ty": "tr",
+                "_render": true
+              }
+            ],
+            "nm": ".",
+            "np": 3,
+            "cix": 2,
+            "bm": 0,
+            "ix": 1,
+            "mn": "ADBE Vector Group",
+            "hd": false,
+            "_render": true
+          },
+          { "ty": "no", "_render": true }
+        ],
+        "ip": 0,
+        "op": 99999,
+        "st": 0,
+        "sr": 1,
+        "ks": {
+          "p": { "k": [0, 0], "a": 0 },
+          "s": { "k": [100, 100], "a": 0 },
+          "a": { "k": [0, 0], "a": 0 },
+          "r": { "k": 0, "a": 0 },
+          "o": { "k": 100, "a": 0 }
+        }
+      },
+      "fFamily": "Muli"
+    }
+  ],
+  "__complete": true
+}

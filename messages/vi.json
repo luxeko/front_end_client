@@ -1,0 +1,109 @@
+{
+  "Metadata": {
+    "Home": {
+      "title": "Eco Garden"
+    },
+    "Product": {
+      "title": "Sản phẩm"
+    },
+    "About": {
+      "title": "Về chúng tôi tôi"
+    },
+    "Contact": {
+      "title": "Liên hệ"
+    },
+    "Projects": {
+      "title": "Dự án"
+    },
+    "Articles": {
+      "title": "Bài viết"
+    },
+    "Login": {
+      "title": "Đăng nhập"
+    },
+    "Register": {
+      "title": "Đăng ký"
+    },
+    "description": "Trang web được xây dụng bằng Next.js 14 and Tailwind CSS",
+    "author": "Luxeko",
+    "creator": "Luxeko",
+    "publisher": "Luxeko"
+  },
+  "Home": {
+    "title": "Biến tầm nhìn thành hiện thực với lập trình và thiết kế.",
+    "description": "Tôi là Đức Anh, nickname Luxeko. Là một nhà phát triển web full-stack có kỹ năng, tôi tận tâm biến ý tưởng thành các ứng dụng web sáng tạo. Khám phá các dự án và bài viết mới nhất của tôi, thể hiện sự thành thạo của tôi trong Reactjs, NextJs, Angular, NodeJs, Express.js, NestJs, Laravel, Java Spring Boot và phát triển web.",
+    "new_products": "Sản phẩm mới",
+    "selling_products": "Sản phẩm bán chạy",
+    "news": "Tin tức",
+    "testimonial": "Khách hàng nói về EcoGarden."
+  },
+  "NotFoundPage": {
+    "description": "Lỗi 404. Không tìm thấy trang"
+  },
+
+  "Footer": {
+    "allRight_reserved": "Mọi quyền được bảo lưu.",
+    "build_with": "Được xây dựng bởi"
+  },
+  "Languages": {
+    "vietnam": "Tiếng Việt",
+    "english": "Tiếng Anh"
+  },
+  "Login": {
+    "title": "Đăng nhập",
+    "remember_me": "Ghi nhớ đăng nhập",
+    "forgot_password": "Quên mật khẩu?",
+    "dont_have_a_account": "Bạn chưa có tài khoản?",
+    "register_now": "Đăng ký ngay",
+    "welcome_back": "Chào mừng trở lại! Vui lòng nhập thông tin tài khoản của bạn."
+  },
+  "Register": {
+    "title": "Đăng ký",
+    "already_have_account": "Bạn đã có tài khoản?",
+    "login_now": "Đăng nhập ngay",
+    "welcome_to": "Chào mừng đến với EcoGarden.! Hãy đăng ký tài khoản của bạn để sử dụng"
+  },
+  "Cart": {
+    "title": "Giỏ hàng"
+  },
+  "Input": {
+    "email_or_phone_number": "Email hoặc số điện thoại",
+    "email": "Email",
+    "password": "Mật khẩu",
+    "password_confirmation": "Xác nhận mật khẩu",
+    "full_name": "Họ tên",
+    "phone_number": "Số điện thoại",
+    "address": "Địa chỉ"
+  },
+  "Button": {
+    "resume": "Bản tóm tắt",
+    "contact": "Gửi MAIL",
+    "buy_now": "Mua ngay",
+    "back_to_home_page": "Về trang chủ"
+  },
+  "Common": {
+    "or": "Hoặc"
+  },
+  "Validate": {
+    "password": {
+      "require": "Mật khẩu không được bỏ trống.",
+      "min": "Mật khẩu phải có ít nhất {length} ký tự.",
+      "password_confirmation": "Xác nhận mật khẩu không chính xác."
+    },
+    "email": {
+      "invalid": "Email không hợp lệ.",
+      "require": "Email không được bỏ trống."
+    },
+    "phone_number": {
+      "invalid": "Số điện thoại không hợp lệ."
+    },
+    "email_or_phone_number": {
+      "require": "Vui lòng nhập email hoặc số điện thoại"
+    },
+    "otp": {
+      "require": "OTP không được bỏ trống.",
+      "min": "OTP phải có {length} số.",
+      "max": "OTP phải có {length} số."
+    }
+  }
+}
