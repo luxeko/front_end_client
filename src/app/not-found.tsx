@@ -1,6 +1,3 @@
-
-import Error from 'next/error';
-
 export const dynamic = 'force-dynamic;
 
 // Render the default Next.js 404 page when a route
@@ -11,7 +8,7 @@ export default function NotFound() {
   return (
     <html lang='en'>
       <body>
-        <Error statusCode={404} />
+        Error 404
       </body>
     </html>
   );
