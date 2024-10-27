@@ -1,5 +1,4 @@
 import React from 'react';
-import { unstable_setRequestLocale } from 'next-intl/server';
 import Layout from '@/components/client/layout';
 import CartList from '@/app/[locale]/(client)/cart/components/cart-list';
 
@@ -14,7 +13,6 @@ const CartPage = async ({
   params: { locale },
   searchParams,
 }: Readonly<Props>) => {
-  unstable_setRequestLocale(locale);
   return <CartList />;
 };
 

@@ -1,5 +1,4 @@
 import React, { Suspense } from 'react';
-import { unstable_setRequestLocale } from 'next-intl/server';
 import { API } from '@/constant/api';
 import ProductDetails from '@/app/[locale]/(client)/products/[id]/components/product-details';
 import Loading from '@/app/[locale]/(client)/products/[id]/loading';
@@ -11,7 +10,6 @@ type Props = {
 const ProductDetailsPage = async ({
   params: { locale, id },
 }: Readonly<Props>) => {
-  unstable_setRequestLocale(locale);
 
   const handleFetchDataProductById = async () => {
     'use server';

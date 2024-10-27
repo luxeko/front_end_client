@@ -7,7 +7,6 @@ import {
   getMessages,
   getNow,
   getTimeZone,
-  unstable_setRequestLocale,
 } from 'next-intl/server';
 import { Toaster } from '@/components/ui/toaster';
 
@@ -43,7 +42,6 @@ const AuthLayout: React.FC<Props> = async ({
   children,
   params: { locale },
 }: Readonly<Props>) => {
-  unstable_setRequestLocale(locale);
 
   // Providing all messages to the client
   // side is the easiest way to get started

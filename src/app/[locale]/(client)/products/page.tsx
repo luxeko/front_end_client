@@ -1,5 +1,4 @@
 import React, { Suspense } from 'react';
-import { unstable_setRequestLocale } from 'next-intl/server';
 import { PATH } from '@/constant/path';
 import Breadcrumb from '@/components/client/breadcrumb/breadcrumb';
 import { API } from '@/constant/api';
@@ -21,7 +20,6 @@ const ProductListPage = async ({
   params: { locale },
   searchParams,
 }: Readonly<Props>) => {
-  unstable_setRequestLocale(locale);
   const {
     page_size,
     page_index,

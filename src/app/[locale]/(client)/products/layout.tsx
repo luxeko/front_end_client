@@ -1,7 +1,7 @@
 import React from 'react';
 import { locales } from '@/config';
 import { Metadata } from 'next';
-import { getTranslations, unstable_setRequestLocale } from 'next-intl/server';
+import { getTranslations } from 'next-intl/server';
 
 type Props = {
   children: React.ReactNode;
@@ -34,7 +34,6 @@ const ProductListLayout = async ({
   children,
   params: { locale },
 }: Readonly<Props>) => {
-  unstable_setRequestLocale(locale);
   return <>{children}</>;
 };
 

@@ -1,5 +1,4 @@
 import React from 'react';
-import { unstable_setRequestLocale } from 'next-intl/server';
 
 type Props = {
   params: {
@@ -12,7 +11,6 @@ const SettingPage = async ({
   params: { locale },
   searchParams,
 }: Readonly<Props>) => {
-  unstable_setRequestLocale(locale);
   return <div>Setting</div>;
 };
 

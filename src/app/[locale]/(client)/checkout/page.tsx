@@ -1,5 +1,4 @@
 import React from 'react';
-import { unstable_setRequestLocale } from 'next-intl/server';
 import Checkout from '@/app/[locale]/(client)/checkout/components/checkout';
 
 type Props = {
@@ -13,7 +12,6 @@ const CheckoutPage = async ({
   params: { locale },
   searchParams,
 }: Readonly<Props>) => {
-  unstable_setRequestLocale(locale);
   return <Checkout />;
 };
 
